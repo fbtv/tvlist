@@ -9,15 +9,15 @@ rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/premier_league4/ playpath=stream?
 #EXTINF:-1,CTH 5
 rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/premier_league5/ playpath=stream?st=pbEyj5le3cWezJQ8tvSGsw&e=1415797502 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/premier_league5.stream
 #EXTINF:-1,K+1
-rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?502d524825d60ce078b731057bddd8be3705d3080c6ec62226f1e19518f13c10/ playpath=k1.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=73
+rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?502d524825d60ce078b731057bddd8be3705d3080c6ec62226f1e19518f13c10/ playpath=k1.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/
 #EXTINF:-1,K+1 Backup
 rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=/xemtt live=1 swfUrl=http://tv.csmtalk.vcdn.vn/talktv/resource/third-party/jwplayer/jwplayer.flash.swf?06172014 pageUrl=http://tv.csmtalk.vn/
 #EXTINF:-1,K+PM
-rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?910a379511bdd472633c80b40f35b5071b0d9f3e85adf121c2c65baaae49a819/ playpath=kpm.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=74
+rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?910a379511bdd472633c80b40f35b5071b0d9f3e85adf121c2c65baaae49a819/ playpath=kpm.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/
 #EXTINF:-1,GMM Football Plus
-rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?502d524825d60ce078b731057bddd8be3705d3080c6ec62226f1e19518f13c10/ playpath=footballplus.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=40
+rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?502d524825d60ce078b731057bddd8be3705d3080c6ec62226f1e19518f13c10/ playpath=footballplus.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/
 #EXTINF:-1,GMM Football Extra
-rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?910a379511bdd472633c80b40f35b5071b0d9f3e85adf121c2c65baaae49a819/ playpath=footballextra.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=12
+rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?910a379511bdd472633c80b40f35b5071b0d9f3e85adf121c2c65baaae49a819/ playpath=footballextra.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/
 #EXTINF:-1,True 4U
 rtmp://$OPT:rtmp-raw=rtmp://edge2.psitv.tv/liveedge/308235425316_600
 #EXTINF:-1,True Sport 2
