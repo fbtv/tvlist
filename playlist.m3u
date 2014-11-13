@@ -25,7 +25,7 @@ rtmp://$OPT:rtmp-raw=rtmp://zaaonline2.blogsyte.com:1935/zaaonline?65e47caac0721
 #EXTINF:-1,True Sport 5
 rtmp://$OPT:rtmp-raw=rtmp://zaaonline2.blogsyte.com:1935/zaaonline?65e47caac07218ddb1be0a576e9546fecca42b4988bf5eda87ced9b07c59ff82/ playpath=tsp5.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.zaaonline.com/channel=13
 #EXTINF:-1,True Sport 6
-rtmp://$OPT:rtmp-raw=rtmp://zaaonline2.blogsyte.com:1935/zaaonline?e5aaf8f48a3cf41de44d4314489ae25b9b02a952da0c88d964b74b94b8c484da/ playpath=tsp6.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf
+rtmp://$OPT:rtmp-raw=rtmp://zaaonline2.blogsyte.com:1935/zaaonline?e5aaf8f48a3cf41de44d4314489ae25b9b02a952da0c88d964b74b94b8c484da/ playpath=tsp6.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.zaaonline.com/channel=13
 #EXTINF:-1,True Sport HD2
 rtmp://$OPT:rtmp-raw=rtmp://150.107.30.17:19355/true_hd2/ playpath=stream?st=YjznHzOmaKBzKz6b8USrVg&e=1415954425 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/2/true_hd2.stream
 #EXTINF:-1,ซัน แชลแนล ลาลีก้า
