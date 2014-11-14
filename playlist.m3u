@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1,*สตรีมเซิร์ฟเวอร์ฟุตบอลจะอัพเดทก่อนบอลเตะ 15 นาที !*
 17.30 ญี่ปุ่น - ฮอนดูรัส True Sport 1 / True Sport HD2
-00.00 จอร์เจีย - โปแลนด์ ช่อง 3 SD
+#EXTINF:-1,00.00 จอร์เจีย - โปแลนด์ ช่อง 3 SD
 02.45 เยอรมัน - ยิบรอลตาร์ ช่อง 3
-02.45 ฝรั่งเศส - อัลแบเนีย GMM Football Extra
+#EXTINF:-1,02.45 ฝรั่งเศส - อัลแบเนีย GMM Football Extra
 02.45 สกอตแลนด์ - ไอร์แลนด์ GMM Football Plus
-02.45 โปรตุเกส - อาร์เมเนีย GMM Football Euro
+#EXTINF:-1,02.45 โปรตุเกส - อาร์เมเนีย GMM Football Euro
 02.45 เซอร์เบีย - เดนมาร์ก ช่อง 3 SD
 #EXTINF:-1,CTH 1
 rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/premier_league1/ playpath=stream?st=usGW9fZC_bQJVE82fgGJnQ&e=1415685847 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/premier_league1.stream
