@@ -43,6 +43,7 @@ rtmp://$OPT:rtmp-raw=rtmp://zaaonline2.blogsyte.com:1935/zaaonline?b595d2ada83b9
 rtmp://$OPT:rtmp-raw=rtmp://150.107.30.17:19355/true_hd2/ playpath=stream?st=YjznHzOmaKBzKz6b8USrVg&e=1415954425 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/2/true_hd2.stream
 #EXTINF:-1 $ExtFilter="SPORTS",Sun Channel Laliga
 http://nix02.livem3u8.me.totiptv.com/live/ce4efc6a833f424f8d6cdcad5573f369.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
+
 #EXTINF:-1 $ExtFilter="FREE TV",ช่อง 3
 http://nix02.livem3u8.me.totiptv.com/live/8bad9f20ff2246b894eddced10dcfdeb.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
 #EXTINF:-1 $ExtFilter="FREE TV",ช่อง 3 SD
@@ -57,8 +58,17 @@ http://nix02.livem3u8.me.totiptv.com/live/ddfa47e726444446864b14e0e819fdde.m3u8?
 http://nix02.livem3u8.me.totiptv.com/live/15c52eeb21b748319771eb794a6cf242.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
 #EXTINF:-1 $ExtFilter="FREE TV",ช่อง 9
 http://nix02.livem3u8.me.totiptv.com/live/3ae2fd6ccaf6499e898de377ed74ea12.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
+#EXTINF:-1 $ExtFilter="FREE TV",NBT
+http://nix02.livem3u8.me.totiptv.com/live/47105f5b5acc488fb43354f6fa3142c1.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
+#EXTINF:-1 $ExtFilter="FREE TV",Nation
+http://nix02.livem3u8.me.totiptv.com/live/a5b25476119b46f5b5a34d56f7d1156c.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
+#EXTINF:-1 $ExtFilter="FREE TV",TPBS
+http://nix02.livem3u8.me.totiptv.com/live/d7182fae6e9f4d929bdb5ae06059bda8.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
+#EXTINF:-1 $ExtFilter="FREE TV",PPTV
+http://nix02.livem3u8.me.totiptv.com/live/623d009180394c528880c14e2254452a.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
 #EXTINF:-1 $ExtFilter="FREE TV",ไทยรัฐ TV
 http://nix02.livem3u8.me.totiptv.com/live/5f59a04ad28d4d839674f27e5834971f.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
+
 #EXTINF:-1 $ExtFilter="MOVIES",Workpoint TV
 http://nix02.livem3u8.me.totiptv.com/live/a9a68ab5471d4d39ba25695a66957067.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
 #EXTINF:-1 $ExtFilter="MOVIES",Mono 29
@@ -81,3 +91,16 @@ http://nix02.livem3u8.me.totiptv.com/live/860605f7e16d4c6cacef72ef02ffa2c1.m3u8?
 http://nix02.livem3u8.me.totiptv.com/live/7299670a140849a9aaf946b0302ad886.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
 #EXTINF:-1 $ExtFilter="MOVIES",Animax
 http://nix02.livem3u8.me.totiptv.com/live/d3edb48a8bb847c78432270e23ddca73.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
+
+#EXTINF:-1 $ExtFilter="NEWS",Aljazeera News
+http://nix02.livem3u8.me.totiptv.com/live/ea4c9d2666bc411d8e6777e8a1d2b747.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
+#EXTINF:-1 $ExtFilter="NEWS",Euro News
+http://nix02.livem3u8.me.totiptv.com/live/3f35c4428a0d4004a38ff0adba7664f4.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
+#EXTINF:-1 $ExtFilter="NEWS",Sky News
+http://nix02.livem3u8.me.totiptv.com/live/31b003ab7e7749a798fe00424e3dd9ff.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
+#EXTINF:-1 $ExtFilter="NEWS",Fox News
+http://nix02.livem3u8.me.totiptv.com/live/1e2041858ca543fa90ec95d28197e907.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
+#EXTINF:-1 $ExtFilter="NEWS",MSNBC
+http://nix02.livem3u8.me.totiptv.com/live/7f2989e3f87e4efdb36bac56b64dca62.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
+#EXTINF:-1 $ExtFilter="NEWS",NHK World
+http://nix02.livem3u8.me.totiptv.com/live/cd25fccffa6f4a2f8d7190d3e8907440.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
