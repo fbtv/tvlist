@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1 $ExtFilter="ฟุตบอล",โปรแกรมฟุตบอล คืนวันที่ 16/11/2014
 #EXTINF:-1 $ExtFilter="ฟุตบอล",00:00 ลักเซมเบิร์ก - ยูเครน GMM Football Euro
 00:00 อังกฤษ - สโลเวเนีย ช่อง 3
 #EXTINF:-1 $ExtFilter="ฟุตบอล",00:00 ซาน มาริโน - เอสโตเนีย GMM Football Plus
