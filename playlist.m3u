@@ -32,6 +32,8 @@ rtmp://$OPT:rtmp-raw=rtmp://150.107.30.17:19355/true_hd2/ playpath=stream?st=Yjz
 http://nix02.livem3u8.me.totiptv.com/live/ce4efc6a833f424f8d6cdcad5573f369.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
 #EXTINF:-1,ช่อง 3
 http://nix02.livem3u8.me.totiptv.com/live/8bad9f20ff2246b894eddced10dcfdeb.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
+#EXTINF:-1,ช่อง 3 SD
+rtmp://$OPT:rtmp-raw=rtmp://103.22.182.58:1936/vlive3/ playpath=1f38899437084c981aa0fdf4e852bc6358f4c13f swfUrl=http://tv.ohozaa.com/xswf/ex9285751/playerx_81741296.swf?kkm= pageUrl=http://tv.ohozaa.com/live/3sd/
 #EXTINF:-1,ช่อง 5
 http://nix02.livem3u8.me.totiptv.com/live/1d92193b11fe490b8c67d0a88bee3fd6.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
 #EXTINF:-1,ช่อง 7
