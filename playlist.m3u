@@ -46,8 +46,8 @@ http://nix02.livem3u8.me.totiptv.com/live/ce4efc6a833f424f8d6cdcad5573f369.m3u8?
 
 #EXTINF:-1 $ExtFilter="วาไรตี้",MBC
 rtmp://$OPT:rtmp-raw=rtmp://fms.mbcgn.kr:1935/livepkgr_c_tv/livestream2 
-#EXTINF:-1 $ExtFilter="วาไรตี้",SBS
-rtmp://$OPT:rtmp-raw=rtmp://nlive.sbs.co.kr:1935/sbsch6pc?u=sbs&type=asp&q=KDE3W39xAXN8eHZSf3AFdn15SmwsJUJ6fWd3SH1vAA%3D%3D/sbs1ch63.stream
+#EXTINF:-1 $ExtFilter="วาไรตี้",SBS Korea
+rtmp://$OPT:rtmp-raw=rtmp://123.214.216.18:554/live/tv
 #EXTINF:-1 $ExtFilter="วาไรตี้",ONE
 http://nix02.livem3u8.me.totiptv.com/live/7e069540a35942e89245865a84add64a.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
 #EXTINF:-1 $ExtFilter="วาไรตี้",Workpoint TV
