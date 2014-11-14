@@ -19,7 +19,7 @@ rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?1b34371f873b7be7fb90b
 #EXTINF:-1,GMM Football Extra
 rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?1b34371f873b7be7fb90b7aeb0d5d8aff00752409d3b78aa1c4a01cdd8734f99/ playpath=footballextra.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=12
 #EXTINF:-1,True 4U
-rtmp://$OPT:rtmp-raw=rtmp://edge2.psitv.tv/liveedge/308235425316_600
+http://nix02.livem3u8.me.totiptv.com/live/9ece9059930d4331a3d445f96fb30dff.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
 #EXTINF:-1,True Sport 2
 rtmp://$OPT:rtmp-raw=rtmp://zaaonline2.blogsyte.com:1935/zaaonline?cf716301a0d1754cfb7732fd16805a8b19e5c88cc63b4d8d574ab1e0bcfd082a/ playpath=tsp2.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.zaaonline.com/channel=11
 #EXTINF:-1,True Sport 5
