@@ -44,37 +44,37 @@ rtmp://$OPT:rtmp-raw=rtmp://150.107.30.17:19355/true_hd2/ playpath=stream?st=Yjz
 #EXTINF:-1 $ExtFilter="ฟุตบอล",Sun Channel Laliga
 http://nix02.livem3u8.me.totiptv.com/live/ce4efc6a833f424f8d6cdcad5573f369.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
 
-#EXTINF:-1 $ExtFilter="หนัง-การ์ตูน",ONE
+#EXTINF:-1 $ExtFilter="หนัง:การ์ตูน",ONE
 http://nix02.livem3u8.me.totiptv.com/live/7e069540a35942e89245865a84add64a.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
-#EXTINF:-1 $ExtFilter="หนัง-การ์ตูน",Workpoint TV
+#EXTINF:-1 $ExtFilter="หนัง:การ์ตูน",Workpoint TV
 http://nix02.livem3u8.me.totiptv.com/live/a9a68ab5471d4d39ba25695a66957067.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
-#EXTINF:-1 $ExtFilter="หนัง-การ์ตูน",Mono 29
+#EXTINF:-1 $ExtFilter="หนัง:การ์ตูน",Mono 29
 http://nix02.livem3u8.me.totiptv.com/live/fd23603db67344c69a8304a2fca268cd.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
-#EXTINF:-1 $ExtFilter="หนัง-การ์ตูน",FOX Crime
+#EXTINF:-1 $ExtFilter="หนัง:การ์ตูน",FOX Crime
 http://nix02.livem3u8.me.totiptv.com/live/5028f7ff1d1b4d5f8189690233364737.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
-#EXTINF:-1 $ExtFilter="หนัง-การ์ตูน",FX
+#EXTINF:-1 $ExtFilter="หนัง:การ์ตูน",FX
 http://nix02.livem3u8.me.totiptv.com/live/2e0e4b05aa6e428593f3b45b710045b7.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
-#EXTINF:-1 $ExtFilter="หนัง-การ์ตูน",Sony TV
+#EXTINF:-1 $ExtFilter="หนัง:การ์ตูน",Sony TV
 http://nix02.livem3u8.me.totiptv.com/live/bd30e27f1c48430ba2104548a1b124ca.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
-#EXTINF:-1 $ExtFilter="หนัง-การ์ตูน",Syfy
+#EXTINF:-1 $ExtFilter="หนัง:การ์ตูน",Syfy
 http://nix02.livem3u8.me.totiptv.com/live/71f197de056e499a85265c03b44bdab1.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
-#EXTINF:-1 $ExtFilter="หนัง-การ์ตูน",Star World
+#EXTINF:-1 $ExtFilter="หนัง:การ์ตูน",Star World
 http://nix02.livem3u8.me.totiptv.com/live/65f7358b813048a0898f5677e1793cf9.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
-#EXTINF:-1 $ExtFilter="หนัง-การ์ตูน",Universal Channel
+#EXTINF:-1 $ExtFilter="หนัง:การ์ตูน",Universal Channel
 http://nix02.livem3u8.me.totiptv.com/live/a7105ed1bb0a44bba1f4f71f2352b892.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
-#EXTINF:-1 $ExtFilter="หนัง-การ์ตูน",Boomerang
+#EXTINF:-1 $ExtFilter="หนัง:การ์ตูน",Boomerang
 http://nix02.livem3u8.me.totiptv.com/live/06c02432266f4f42b48947e075de38c5.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
-#EXTINF:-1 $ExtFilter="หนัง-การ์ตูน",Baby TV
+#EXTINF:-1 $ExtFilter="หนัง:การ์ตูน",Baby TV
 http://nix02.livem3u8.me.totiptv.com/live/7773f3cef0334a28ad248552ea63d9e7.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
-#EXTINF:-1 $ExtFilter="หนัง-การ์ตูน",Nick Jr
+#EXTINF:-1 $ExtFilter="หนัง:การ์ตูน",Nick Jr
 http://nix02.livem3u8.me.totiptv.com/live/2b72986be9314c139db95f6098d1c413.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
-#EXTINF:-1 $ExtFilter="หนัง-การ์ตูน",Cartoonito
+#EXTINF:-1 $ExtFilter="หนัง:การ์ตูน",Cartoonito
 http://nix02.livem3u8.me.totiptv.com/live/dff1502eb25c4912aea009df5d0fde9b.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
-#EXTINF:-1 $ExtFilter="หนัง-การ์ตูน",Cartoon Club
+#EXTINF:-1 $ExtFilter="หนัง:การ์ตูน",Cartoon Club
 http://nix02.livem3u8.me.totiptv.com/live/860605f7e16d4c6cacef72ef02ffa2c1.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
-#EXTINF:-1 $ExtFilter="หนัง-การ์ตูน",Gang Cartoon
+#EXTINF:-1 $ExtFilter="หนัง:การ์ตูน",Gang Cartoon
 http://nix02.livem3u8.me.totiptv.com/live/7299670a140849a9aaf946b0302ad886.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
-#EXTINF:-1 $ExtFilter="หนัง-การ์ตูน",Animax
+#EXTINF:-1 $ExtFilter="หนัง:การ์ตูน",Animax
 http://nix02.livem3u8.me.totiptv.com/live/d3edb48a8bb847c78432270e23ddca73.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
 
 #EXTINF:-1 $ExtFilter="ข่าว",Aljazeera News
