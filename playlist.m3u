@@ -1,63 +1,65 @@
 #EXTM3U
-#EXTINF:-1,*สตรีมเซิร์ฟเวอร์ฟุตบอลจะอัพเดทก่อนบอลเตะ 15 นาที !*
+#EXTINF:-1 $ExtFilter="SPORTS",*สตรีมเซิร์ฟเวอร์ฟุตบอลจะอัพเดทก่อนบอลเตะ 15 นาที !*
 - 17:30 ญี่ปุ่น - ฮอนดูรัส True Sport 1
-#EXTINF:-1,- 00:00 จอร์เจีย - โปแลนด์ ช่อง 3 SD
+#EXTINF:-1 $ExtFilter="SPORTS",- 00 00 จอร์เจีย - โปแลนด์ ช่อง 3 SD
 - 02:45 เยอรมัน - ยิบรอลตาร์ ช่อง 3
-#EXTINF:-1,- 02:45 ฝรั่งเศส - อัลแบเนีย GMM Football Extra
+#EXTINF:-1 $ExtFilter="SPORTS",- 02 45 ฝรั่งเศส - อัลแบเนีย GMM Football Extra
 - 02:45 สกอตแลนด์ - ไอร์แลนด์ GMM Football Plus
-#EXTINF:-1,- 02:45 โปรตุเกส - อาร์เมเนีย GMM Football Euro
+#EXTINF:-1 $ExtFilter="SPORTS",- 02 45 โปรตุเกส - อาร์เมเนีย GMM Football Euro
 - 02:45 เซอร์เบีย - เดนมาร์ก ช่อง 3 SD
-#EXTINF:-1,CTH 1
+#EXTINF:-1 $ExtFilter="SPORTS",CTH 1
 rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/premier_league1/ playpath=stream?st=usGW9fZC_bQJVE82fgGJnQ&e=1415685847 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/premier_league1.stream
-#EXTINF:-1,CTH 3
+#EXTINF:-1 $ExtFilter="SPORTS",CTH 3
 rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/ch4/ playpath=stream?st=rP7ZV__2coWxHQHAIwdAhA&e=1415605077 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/ch4.stream
-#EXTINF:-1,CTH 4
+#EXTINF:-1 $ExtFilter="SPORTS",CTH 4
 rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/premier_league4/ playpath=stream?st=_5xf7nXQnLCfk-vJdA6OrQ&e=1415807850 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/premier_league4.stream
-#EXTINF:-1,CTH 5
+#EXTINF:-1 $ExtFilter="SPORTS",CTH 5
 rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/premier_league5/ playpath=stream?st=pbEyj5le3cWezJQ8tvSGsw&e=1415797502 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/premier_league5.stream
-#EXTINF:-1,K+1
+#EXTINF:-1 $ExtFilter="SPORTS",K+1
 rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?921cb606d7b2f25d87ce4207b291466fc3499cc17a407bd3a5419eaea89df2f6/ playpath=k1.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=73
-#EXTINF:-1,K+1 Backup
+#EXTINF:-1 $ExtFilter="SPORTS",K+1 Backup
 rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=/xemtt live=1 swfUrl=http://tv.csmtalk.vcdn.vn/talktv/resource/third-party/jwplayer/jwplayer.flash.swf?06172014 pageUrl=http://tv.csmtalk.vn/
-#EXTINF:-1,K+PM
+#EXTINF:-1 $ExtFilter="SPORTS",K+PM
 rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?921cb606d7b2f25d87ce4207b291466fc3499cc17a407bd3a5419eaea89df2f6/ playpath=kpm.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=74
-#EXTINF:-1,GMM Football Plus
+#EXTINF:-1 $ExtFilter="SPORTS",GMM Football Plus
 rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?921cb606d7b2f25d87ce4207b291466fc3499cc17a407bd3a5419eaea89df2f6/ playpath=footballplus.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=40
-#EXTINF:-1,GMM Football Extra
+#EXTINF:-1 $ExtFilter="SPORTS",GMM Football Extra
 rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?921cb606d7b2f25d87ce4207b291466fc3499cc17a407bd3a5419eaea89df2f6/ playpath=footballextra.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=12
-#EXTINF:-1,GMM Club Channel
+#EXTINF:-1 $ExtFilter="SPORTS",GMM Club Channel
 rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?921cb606d7b2f25d87ce4207b291466fc3499cc17a407bd3a5419eaea89df2f6/ playpath=club.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=19
-#EXTINF:-1,True 4U
+#EXTINF:-1 $ExtFilter="SPORTS",True 4U
 http://nix02.livem3u8.me.totiptv.com/live/9ece9059930d4331a3d445f96fb30dff.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
-#EXTINF:-1,True Sport 1
+#EXTINF:-1 $ExtFilter="SPORTS",True Sport 1
 rtmp://$OPT:rtmp-raw=rtmp://150.107.30.17:19355/true_sport1/ playpath=stream?st=PLq-q-O_1Zryvwpal78Ynw&e=1416293481 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/2/true_sport1.stream
-#EXTINF:-1,True Sport 2
+#EXTINF:-1 $ExtFilter="SPORTS",True Sport 2
 rtmp://$OPT:rtmp-raw=rtmp://zaaonline2.blogsyte.com:1935/zaaonline?b595d2ada83b983be10b572d41d8ece477d7ef78de635a4d634f4c386d50af40/ playpath=tsp2.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.zaaonline.com/channel=11
-#EXTINF:-1,True Sport 5
+#EXTINF:-1 $ExtFilter="SPORTS",True Sport 5
 rtmp://$OPT:rtmp-raw=rtmp://zaaonline2.blogsyte.com:1935/zaaonline?b595d2ada83b983be10b572d41d8ece477d7ef78de635a4d634f4c386d50af40/ playpath=tsp5.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.zaaonline.com/channel=13
-#EXTINF:-1,True Sport 6
+#EXTINF:-1 $ExtFilter="SPORTS",True Sport 6
 rtmp://$OPT:rtmp-raw=rtmp://zaaonline2.blogsyte.com:1935/zaaonline?b595d2ada83b983be10b572d41d8ece477d7ef78de635a4d634f4c386d50af40/ playpath=tsp6.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.zaaonline.com/channel=14
-#EXTINF:-1,True Sport 7
+#EXTINF:-1 $ExtFilter="SPORTS",True Sport 7
 rtmp://$OPT:rtmp-raw=rtmp://zaaonline2.blogsyte.com:1935/zaaonline?b595d2ada83b983be10b572d41d8ece477d7ef78de635a4d634f4c386d50af40/ playpath=tsp7.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.zaaonline.com/channel=15
-#EXTINF:-1,True Sport HD2
+#EXTINF:-1 $ExtFilter="SPORTS",True Sport HD2
 rtmp://$OPT:rtmp-raw=rtmp://150.107.30.17:19355/true_hd2/ playpath=stream?st=YjznHzOmaKBzKz6b8USrVg&e=1415954425 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/2/true_hd2.stream
-#EXTINF:-1,ซัน แชลแนล ลาลีก้า
+#EXTINF:-1 $ExtFilter="SPORTS",ซัน แชลแนล ลาลีก้า
 http://nix02.livem3u8.me.totiptv.com/live/ce4efc6a833f424f8d6cdcad5573f369.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
-#EXTINF:-1,ช่อง 3
+#EXTINF:-1 $ExtFilter="SPORTS",ช่อง 3
 http://nix02.livem3u8.me.totiptv.com/live/8bad9f20ff2246b894eddced10dcfdeb.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
-#EXTINF:-1,ช่อง 3 SD
+#EXTINF:-1 $ExtFilter="SPORTS",ช่อง 3 SD
 http://nix02.livem3u8.me.totiptv.com/live/0296e16fac6149ed99004125f37fa2e4.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
-#EXTINF:-1,ช่อง 3 Family
+#EXTINF:-1 $ExtFilter="SPORTS",ช่อง 3 Family
 http://nix02.livem3u8.me.totiptv.com/live/93d89e479ef9499a9c1ddc36b85e4190.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
-#EXTINF:-1,ช่อง 5
+#EXTINF:-1 $ExtFilter="SPORTS",ช่อง 5
 http://nix02.livem3u8.me.totiptv.com/live/1d92193b11fe490b8c67d0a88bee3fd6.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
-#EXTINF:-1,ช่อง 7
+#EXTINF:-1 $ExtFilter="SPORTS",ช่อง 7
 http://nix02.livem3u8.me.totiptv.com/live/ddfa47e726444446864b14e0e819fdde.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
-#EXTINF:-1,ช่อง 8
+#EXTINF:-1 $ExtFilter="SPORTS",ช่อง 8
 http://nix02.livem3u8.me.totiptv.com/live/15c52eeb21b748319771eb794a6cf242.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
-#EXTINF:-1,ช่อง 9
+#EXTINF:-1 $ExtFilter="SPORTS",ช่อง 9
 http://nix02.livem3u8.me.totiptv.com/live/3ae2fd6ccaf6499e898de377ed74ea12.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
-#EXTINF:-1,ไทยรัฐ TV
+#EXTINF:-1 $ExtFilter="SPORTS",ไทยรัฐ TV
 http://nix02.livem3u8.me.totiptv.com/live/5f59a04ad28d4d839674f27e5834971f.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
-#EXTINF:-1,Workpoint TV
+#EXTINF:-1 $ExtFilter="SPORTS",Workpoint TV
 http://nix02.livem3u8.me.totiptv.com/live/a9a68ab5471d4d39ba25695a66957067.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
+#EXTINF:-1 $ExtFilter="MOVIES",Mono 29
+http://nix02.livem3u8.me.totiptv.com/live/fd23603db67344c69a8304a2fca268cd.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
