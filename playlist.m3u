@@ -41,25 +41,25 @@ rtmp://$OPT:rtmp-raw=rtmp://zaaonline2.blogsyte.com:1935/zaaonline?b595d2ada83b9
 rtmp://$OPT:rtmp-raw=rtmp://zaaonline2.blogsyte.com:1935/zaaonline?b595d2ada83b983be10b572d41d8ece477d7ef78de635a4d634f4c386d50af40/ playpath=tsp7.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.zaaonline.com/channel=15
 #EXTINF:-1 $ExtFilter="SPORTS",True Sport HD2
 rtmp://$OPT:rtmp-raw=rtmp://150.107.30.17:19355/true_hd2/ playpath=stream?st=YjznHzOmaKBzKz6b8USrVg&e=1415954425 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/2/true_hd2.stream
-#EXTINF:-1 $ExtFilter="SPORTS",ซัน แชลแนล ลาลีก้า
+#EXTINF:-1 $ExtFilter="SPORTS",Sun Channel Laliga
 http://nix02.livem3u8.me.totiptv.com/live/ce4efc6a833f424f8d6cdcad5573f369.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
-#EXTINF:-1 $ExtFilter="SPORTS",ช่อง 3
+#EXTINF:-1 $ExtFilter="FREE TV",ช่อง 3
 http://nix02.livem3u8.me.totiptv.com/live/8bad9f20ff2246b894eddced10dcfdeb.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
-#EXTINF:-1 $ExtFilter="SPORTS",ช่อง 3 SD
+#EXTINF:-1 $ExtFilter="FREE TV",ช่อง 3 SD
 http://nix02.livem3u8.me.totiptv.com/live/0296e16fac6149ed99004125f37fa2e4.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
-#EXTINF:-1 $ExtFilter="SPORTS",ช่อง 3 Family
+#EXTINF:-1 $ExtFilter="FREE TV",ช่อง 3 Family
 http://nix02.livem3u8.me.totiptv.com/live/93d89e479ef9499a9c1ddc36b85e4190.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
-#EXTINF:-1 $ExtFilter="SPORTS",ช่อง 5
+#EXTINF:-1 $ExtFilter="FREE TV",ช่อง 5
 http://nix02.livem3u8.me.totiptv.com/live/1d92193b11fe490b8c67d0a88bee3fd6.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
-#EXTINF:-1 $ExtFilter="SPORTS",ช่อง 7
+#EXTINF:-1 $ExtFilter="FREE TV",ช่อง 7
 http://nix02.livem3u8.me.totiptv.com/live/ddfa47e726444446864b14e0e819fdde.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
-#EXTINF:-1 $ExtFilter="SPORTS",ช่อง 8
+#EXTINF:-1 $ExtFilter="FREE TV",ช่อง 8
 http://nix02.livem3u8.me.totiptv.com/live/15c52eeb21b748319771eb794a6cf242.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
-#EXTINF:-1 $ExtFilter="SPORTS",ช่อง 9
+#EXTINF:-1 $ExtFilter="FREE TV",ช่อง 9
 http://nix02.livem3u8.me.totiptv.com/live/3ae2fd6ccaf6499e898de377ed74ea12.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
-#EXTINF:-1 $ExtFilter="SPORTS",ไทยรัฐ TV
+#EXTINF:-1 $ExtFilter="FREE TV",ไทยรัฐ TV
 http://nix02.livem3u8.me.totiptv.com/live/5f59a04ad28d4d839674f27e5834971f.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
-#EXTINF:-1 $ExtFilter="SPORTS",Workpoint TV
+#EXTINF:-1 $ExtFilter="MOVIES",Workpoint TV
 http://nix02.livem3u8.me.totiptv.com/live/a9a68ab5471d4d39ba25695a66957067.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
 #EXTINF:-1 $ExtFilter="MOVIES",Mono 29
 http://nix02.livem3u8.me.totiptv.com/live/fd23603db67344c69a8304a2fca268cd.m3u8?pt=1&code=82eabf75c3d174b65ef127f4e75815bc
