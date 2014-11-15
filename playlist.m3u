@@ -27,7 +27,7 @@ rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=/xemtt live=1 swfUrl=
 #EXTINF:-1 $ExtFilter="ฟุตบอล",K+PM
 rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?33d4defc9811f61569a0e7124e5501fae4afcd41ef3d52e151676f72fbf03980/ playpath=kpm.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=74
 #EXTINF:-1 $ExtFilter="ฟุตบอล",GMM Football Euro
-rtmp://$OPT:rtmp-raw=rtmp://150.107.30.17:19355/r01/ playpath=stream?st=dDJsQa1ppzGFs7dTIwtyTA&e=1416198854 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/2/r01.stream
+rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/r03/ playpath=stream?st=DIPnnMwiQk6SRl9DnpTKkQ&e=1416293998 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/r03.stream
 #EXTINF:-1 $ExtFilter="ฟุตบอล",GMM Football Plus
 rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?33d4defc9811f61569a0e7124e5501fae4afcd41ef3d52e151676f72fbf03980/ playpath=footballplus.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=40
 #EXTINF:-1 $ExtFilter="ฟุตบอล",GMM Football Extra
