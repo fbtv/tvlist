@@ -13,7 +13,7 @@
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 1
 http://111.223.33.105:8081/I1_Stadium1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAxNCA4OjQ2OjE4IEFNJmhhc2hfdmFsdWU9T0R1MHJwakhCcWxMeE9xM0N5bW5BZz09JnZhbGlkbWludXRlcz0xMjA=
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 2
-http://111.223.33.103:8081/I1_Stadium2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAxNCA4OjUzOjQ4IEFNJmhhc2hfdmFsdWU9bHV4VzI1WS8zek5iQnNZSU5mS1kxQT09JnZhbGlkbWludXRlcz0xMjA=
+http://202.170.127.28:8081/I1_Stadium2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAxNCA4OjUzOjQ4IEFNJmhhc2hfdmFsdWU9bHV4VzI1WS8zek5iQnNZSU5mS1kxQT09JnZhbGlkbWludXRlcz0xMjA=
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 3
 rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/ch4/ playpath=stream?st=rP7ZV__2coWxHQHAIwdAhA&e=1415605077 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/ch4.stream
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 4
