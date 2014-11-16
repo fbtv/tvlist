@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 $ExtFilter="ฟุตบอล",โปรแกรมฟุตบอล คืนวันที่ 15/11/2014
-00:00 ลักเซมเบิร์ก - ยูเครน GMM Football Euro
-#EXTINF:-1 $ExtFilter="ฟุตบอล",00:00 อังกฤษ - สโลเวเนีย ช่อง 3
-00:00 ซาน มาริโน - เอสโตเนีย GMM Football Plus
-#EXTINF:-1 $ExtFilter="ฟุตบอล",00:00 ออสเตรีย - รัสเซีย ช่อง 3 SD
-00:00 มอลโดว่า - ลิชเท่นสไตน์ GMM Football Extra
-#EXTINF:-1 $ExtFilter="ฟุตบอล",02:45 มาเซโดเนีย - สโลวาเกีย GMM Football Extra
-02:45 สเปน - เบลารุส GMM Football Euro
-#EXTINF:-1 $ExtFilter="ฟุตบอล",02:45 สวิตเซอร์แลนด์ - ลิธัวเนีย ช่อง 3 SD
-02:45 มอนเตเนโกร - สวีเดน ช่อง 3 Family
+00:00 ฮอลแลนด์ - ลัตเวีย GMM Euro
+#EXTINF:-1 $ExtFilter="ฟุตบอล",00:00 เบลเยี่ยม - เวลส์ ช่อง 3 Family
+00:00 ไซปรัส - อันดอร์ร่า GMM Extra
+#EXTINF:-1 $ExtFilter="ฟุตบอล",00:00 อาเซอร์ไบจาน - นอร์เวย์ ช่อง 3 SD
+02:45 เช็ก - ไอซ์แลนด์ ช่อง 3 SD
+#EXTINF:-1 $ExtFilter="ฟุตบอล",02:45 ตุรกี - คาซัคสถาน GMM Euro
+02:45 อิสราเอล - บอสเนีย GMM Extra
+#EXTINF:-1 $ExtFilter="ฟุตบอล",02:45 บัลแกเรีย - มอลต้า GMM Plus
+02:45 อิตาลี - โครเอเชีย ช่อง 3
 
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 1
 http://111.223.33.105:8081/I1_Stadium1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAxNCA4OjQ2OjE4IEFNJmhhc2hfdmFsdWU9T0R1MHJwakhCcWxMeE9xM0N5bW5BZz09JnZhbGlkbWludXRlcz0xMjA=
