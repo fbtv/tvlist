@@ -66,7 +66,7 @@ http://nix02.livem3u8.me.totiptv.com/live/7e069540a35942e89245865a84add64a.m3u8?
 #EXTINF:-1 $ExtFilter="วาไรตี้",Workpoint TV
 http://nix02.livem3u8.me.totiptv.com/live/a9a68ab5471d4d39ba25695a66957067.m3u8?pt=1&code=bcda8102b9201a1f96b86eb733c66120
 #EXTINF:-1 $ExtFilter="วาไรตี้",Mono 29
-http://nix02.livem3u8.me.totiptv.com/live/fd23603db67344c69a8304a2fca268cd.m3u8?pt=1&code=bcda8102b9201a1f96b86eb733c66120
+rtmp://$OPT:rtmp-raw=rtmp://solution01.stream.3bb.co.th/MonoTV1080/1080p_th
 #EXTINF:-1 $ExtFilter="วาไรตี้",FOX Crime
 http://nix02.livem3u8.me.totiptv.com/live/5028f7ff1d1b4d5f8189690233364737.m3u8?pt=1&code=bcda8102b9201a1f96b86eb733c66120
 #EXTINF:-1 $ExtFilter="วาไรตี้",FX
