@@ -24,7 +24,7 @@ rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?77296facc7c666bfdebbc
 #EXTINF:-1 $ExtFilter="ฟุตบอล",GMM Club Channel
 rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?77296facc7c666bfdebbc70781cd0695a2b618a407c844da5cb32ff90587a5b0/ playpath=club.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=19
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True 4U
-http://nix02.livem3u8.me.totiptv.com/live/9ece9059930d4331a3d445f96fb30dff.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/9ece9059930d4331a3d445f96fb30dff.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 1
 rtmp://$OPT:rtmp-raw=rtmp://150.107.30.17:19355/true_sport1/ playpath=stream?st=PLq-q-O_1Zryvwpal78Ynw&e=1416293481 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/2/true_sport1.stream
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 2
@@ -40,7 +40,7 @@ rtmp://$OPT:rtmp-raw=rtmp://150.107.30.17:19355/true_hd1/ playpath=stream?st=jyY
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport HD2
 rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/true_hd2/ playpath=stream?st=sDi3WpcUNZOd5k8KTAVM1Q&e=1416787888 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/true_hd2.stream
 #EXTINF:-1 $ExtFilter="ฟุตบอล",Sun Channel Laliga
-http://nix02.livem3u8.me.totiptv.com/live/ce4efc6a833f424f8d6cdcad5573f369.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/ce4efc6a833f424f8d6cdcad5573f369.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 
 #EXTINF:-1 $ExtFilter="วาไรตี้",KBS Korea
 http://www.youtube.com/watch?v=eRcfW2KekaM
@@ -51,88 +51,88 @@ rtmp://$OPT:rtmp-raw=rtmp://123.214.216.18:554/live/tv
 #EXTINF:-1 $ExtFilter="วาไรตี้",OBS Korea
 rtmp://$OPT:rtmp-raw=rtmp://live.obs.co.kr/obs/myStream.sdp
 #EXTINF:-1 $ExtFilter="วาไรตี้",ONE
-http://nix02.livem3u8.me.totiptv.com/live/7e069540a35942e89245865a84add64a.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/7e069540a35942e89245865a84add64a.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="วาไรตี้",Workpoint TV
-http://nix02.livem3u8.me.totiptv.com/live/a9a68ab5471d4d39ba25695a66957067.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/a9a68ab5471d4d39ba25695a66957067.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="วาไรตี้",Mono 29
 rtmp://$OPT:rtmp-raw=rtmp://solution01.stream.3bb.co.th/MonoTV1080/1080p_th
 #EXTINF:-1 $ExtFilter="วาไรตี้",FOX Crime
-http://nix02.livem3u8.me.totiptv.com/live/5028f7ff1d1b4d5f8189690233364737.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/5028f7ff1d1b4d5f8189690233364737.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="วาไรตี้",FX
-http://nix02.livem3u8.me.totiptv.com/live/2e0e4b05aa6e428593f3b45b710045b7.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/2e0e4b05aa6e428593f3b45b710045b7.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="วาไรตี้",Sony TV
-http://nix02.livem3u8.me.totiptv.com/live/bd30e27f1c48430ba2104548a1b124ca.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/bd30e27f1c48430ba2104548a1b124ca.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="วาไรตี้",Syfy
-http://nix02.livem3u8.me.totiptv.com/live/71f197de056e499a85265c03b44bdab1.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/71f197de056e499a85265c03b44bdab1.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="วาไรตี้",Star World
-http://nix02.livem3u8.me.totiptv.com/live/65f7358b813048a0898f5677e1793cf9.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/65f7358b813048a0898f5677e1793cf9.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="วาไรตี้",Star Chinese Movies Legend
-http://nix02.livem3u8.me.totiptv.com/live/c8233976dbba4a06a101780907447375.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/c8233976dbba4a06a101780907447375.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="วาไรตี้",Universal Channel
-http://nix02.livem3u8.me.totiptv.com/live/a7105ed1bb0a44bba1f4f71f2352b892.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/a7105ed1bb0a44bba1f4f71f2352b892.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="วาไรตี้",Boomerang
-http://nix02.livem3u8.me.totiptv.com/live/06c02432266f4f42b48947e075de38c5.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/06c02432266f4f42b48947e075de38c5.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="วาไรตี้",Baby TV
-http://nix02.livem3u8.me.totiptv.com/live/7773f3cef0334a28ad248552ea63d9e7.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/7773f3cef0334a28ad248552ea63d9e7.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="วาไรตี้",Nick Jr
-http://nix02.livem3u8.me.totiptv.com/live/2b72986be9314c139db95f6098d1c413.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/2b72986be9314c139db95f6098d1c413.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="วาไรตี้",Cartoonito
-http://nix02.livem3u8.me.totiptv.com/live/dff1502eb25c4912aea009df5d0fde9b.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/dff1502eb25c4912aea009df5d0fde9b.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="วาไรตี้",Cartoon Club
-http://nix02.livem3u8.me.totiptv.com/live/860605f7e16d4c6cacef72ef02ffa2c1.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/860605f7e16d4c6cacef72ef02ffa2c1.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="วาไรตี้",Gang Cartoon
-http://nix02.livem3u8.me.totiptv.com/live/7299670a140849a9aaf946b0302ad886.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/7299670a140849a9aaf946b0302ad886.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="วาไรตี้",Animax
-http://nix02.livem3u8.me.totiptv.com/live/d3edb48a8bb847c78432270e23ddca73.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/d3edb48a8bb847c78432270e23ddca73.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="วาไรตี้",Nat Geo People
-http://nix02.livem3u8.me.totiptv.com/live/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="วาไรตี้",Nat Geo Wild
-http://nix02.livem3u8.me.totiptv.com/live/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="วาไรตี้",Bio Thai
-http://nix02.livem3u8.me.totiptv.com/live/169a149fd1ef40edba0bbfc8e0f1bdd1.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/169a149fd1ef40edba0bbfc8e0f1bdd1.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="วาไรตี้",CI
-http://nix02.livem3u8.me.totiptv.com/live/9961a963920f45f4bc0d81c3e478b334.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/9961a963920f45f4bc0d81c3e478b334.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="วาไรตี้",Travel Channel International
-http://nix02.livem3u8.me.totiptv.com/live/4c136f4cb1fd4f62a583a029c2eb6c77.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/4c136f4cb1fd4f62a583a029c2eb6c77.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="วาไรตี้",The Africa Channel
-http://nix02.livem3u8.me.totiptv.com/live/eea31a4e48aa4d51a4ce8cdaa1c3a957.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/eea31a4e48aa4d51a4ce8cdaa1c3a957.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="วาไรตี้",40 50 Channel
 http://edge2.psitv.tv:1935/liveedge/307908917552_600/playlist.m3u8
 
 #EXTINF:-1 $ExtFilter="ข่าว",Aljazeera News
-http://nix02.livem3u8.me.totiptv.com/live/ea4c9d2666bc411d8e6777e8a1d2b747.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/ea4c9d2666bc411d8e6777e8a1d2b747.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="ข่าว",Euro News
-http://nix02.livem3u8.me.totiptv.com/live/3f35c4428a0d4004a38ff0adba7664f4.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/3f35c4428a0d4004a38ff0adba7664f4.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="ข่าว",Sky News
-http://nix02.livem3u8.me.totiptv.com/live/31b003ab7e7749a798fe00424e3dd9ff.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/31b003ab7e7749a798fe00424e3dd9ff.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="ข่าว",Fox News
-http://nix02.livem3u8.me.totiptv.com/live/1e2041858ca543fa90ec95d28197e907.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/1e2041858ca543fa90ec95d28197e907.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="ข่าว",MSNBC
-http://nix02.livem3u8.me.totiptv.com/live/7f2989e3f87e4efdb36bac56b64dca62.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/7f2989e3f87e4efdb36bac56b64dca62.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="ข่าว",NHK World
-http://nix02.livem3u8.me.totiptv.com/live/cd25fccffa6f4a2f8d7190d3e8907440.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/cd25fccffa6f4a2f8d7190d3e8907440.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 3
-http://nix02.livem3u8.me.totiptv.com/live/8bad9f20ff2246b894eddced10dcfdeb.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/8bad9f20ff2246b894eddced10dcfdeb.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 3 SD
-http://nix02.livem3u8.me.totiptv.com/live/0296e16fac6149ed99004125f37fa2e4.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/0296e16fac6149ed99004125f37fa2e4.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 3 Family
-http://nix02.livem3u8.me.totiptv.com/live/93d89e479ef9499a9c1ddc36b85e4190.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/93d89e479ef9499a9c1ddc36b85e4190.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 5
-http://nix02.livem3u8.me.totiptv.com/live/1d92193b11fe490b8c67d0a88bee3fd6.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/1d92193b11fe490b8c67d0a88bee3fd6.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 7
-http://nix02.livem3u8.me.totiptv.com/live/ddfa47e726444446864b14e0e819fdde.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/ddfa47e726444446864b14e0e819fdde.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 8
-http://nix02.livem3u8.me.totiptv.com/live/15c52eeb21b748319771eb794a6cf242.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/15c52eeb21b748319771eb794a6cf242.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 9
-http://nix02.livem3u8.me.totiptv.com/live/3ae2fd6ccaf6499e898de377ed74ea12.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/3ae2fd6ccaf6499e898de377ed74ea12.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",NBT
-http://nix02.livem3u8.me.totiptv.com/live/47105f5b5acc488fb43354f6fa3142c1.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/47105f5b5acc488fb43354f6fa3142c1.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",Nation
-http://nix02.livem3u8.me.totiptv.com/live/a5b25476119b46f5b5a34d56f7d1156c.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/a5b25476119b46f5b5a34d56f7d1156c.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",TPBS
-http://nix02.livem3u8.me.totiptv.com/live/d7182fae6e9f4d929bdb5ae06059bda8.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/d7182fae6e9f4d929bdb5ae06059bda8.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",PPTV
-http://nix02.livem3u8.me.totiptv.com/live/623d009180394c528880c14e2254452a.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/623d009180394c528880c14e2254452a.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ไทยรัฐ TV
-http://nix02.livem3u8.me.totiptv.com/live/5f59a04ad28d4d839674f27e5834971f.m3u8?pt=1&code=3cb512a55267e3b6135fcf85f96d666c
+http://nix02.livem3u8.me.totiptv.com/live/5f59a04ad28d4d839674f27e5834971f.m3u8?pt=1&code=faa67fc57d3fc29111134ed5fe9fc451
