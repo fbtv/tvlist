@@ -5,6 +5,8 @@ rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/premier_league1/ playpath=stream?
 rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/premier_league2/ playpath=stream?st=YeVq-3yzVWBgOwSRyU_2Wg&e=1416715001 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/premier_league2.stream
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 3 19:45 West Bromwich - Arsenal
 rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/cth3/ playpath=stream?st=dLGHfUnblXjUSgGFdUgSBQ&e=1417554896 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/cth3.stream
+#EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 3 Backup 19:45 West Bromwich - Arsenal
+rtmp://$OPT:rtmp-raw=rtmp://150.107.30.17:19355/cth3/ playpath=stream?st=v6MLOAa_bAXhkBwPGQ-g-Q&e=1417442206 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/2/cth3.stream
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 4 00:30 Sunderland - Chelsea
 rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/premier_league4/ playpath=stream?st=jhsyaWNQj0ifiNkHU0o9Rg&e=1417002780 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/premier_league4.stream
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 5
