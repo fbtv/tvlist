@@ -8,7 +8,7 @@ rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/cth3/ playpath=stream?st=dLGHfUnb
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 3 22.00 น. สโต๊ค ซิตี้ - อาร์เซน่อล
 rtmp://$OPT:rtmp-raw=rtmp://150.107.30.17:19355/cth3/ playpath=stream?st=v6MLOAa_bAXhkBwPGQ-g-Q&e=1417442206 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/2/cth3.stream
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 4 19.45 น. นิวคาสเซิ่ล ยูไนเต็ด - เชลซี
-rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/premier_league4/ playpath=stream?st=5sQW-vHSGcdF6ESt2ypCTw&e=1417451717 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/premier_league4.stream
+rtmp://$OPT:rtmp-raw=rtmp://150.107.30.17:19355/premier_league4/ playpath=stream?st=kRG7U_3TFJR6EPRVGCF-2w&e=1418185477 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/2/premier_league4.stream
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 5
 rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/premier_league5/ playpath=stream?st=L2CV_k3ZU8oCA3jklRljIw&e=1416805599 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/premier_league5.stream
 #EXTINF:-1 $ExtFilter="ฟุตบอล",K+1
