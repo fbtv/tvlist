@@ -30,7 +30,7 @@ rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?43149037c487494fd9bab
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True 4U
 http://nix02.livem3u8.me.totiptv.com/live/9ece9059930d4331a3d445f96fb30dff.m3u8?pt=1&code=739843ba0cc0e4d05262c748f5614072
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 1
-rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/true_sport1/ playpath=stream?st=GxlekAVj4cv0c6e0rToBFw&e=1418403705 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/true_sport1.stream
+rtmp://$OPT:rtmp-raw=rtmp://ballzeez.pointto.us:1935/live?bd9e374bf108ce88a56ebce01d9d15585aef5fcf20c28207908c24f1bb5183bc/ playpath=tsp12.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=75
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 2
 rtmp://$OPT:rtmp-raw=rtmp://ballzeez.pointto.us:1935/live?bd9e374bf108ce88a56ebce01d9d15585aef5fcf20c28207908c24f1bb5183bc/ playpath=tsp2.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=70
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 5
