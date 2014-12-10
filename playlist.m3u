@@ -32,7 +32,7 @@ http://nix02.livem3u8.me.totiptv.com/live/9ece9059930d4331a3d445f96fb30dff.m3u8?
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 1
 rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/true_sport1/ playpath=stream?st=GxlekAVj4cv0c6e0rToBFw&e=1418403705 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/true_sport1.stream
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 2
-rtmp://$OPT:rtmp-raw=rtmp://zaaonline2.blogsyte.com:1935/zaaonline?b595d2ada83b983be10b572d41d8ece477d7ef78de635a4d634f4c386d50af40/ playpath=tsp2.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.zaaonline.com/channel=11
+rtmp://$OPT:rtmp-raw=rtmp://ballzeez.pointto.us:1935/live?bd9e374bf108ce88a56ebce01d9d15585aef5fcf20c28207908c24f1bb5183bc/ playpath=tsp2.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=70
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 5
 rtmp://$OPT:rtmp-raw=rtmp://150.107.30.17:19355/true_sport5/ playpath=stream?st=uNnMUw2qGJ_kdAN01AHnQw&e=1418217010 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/2/true_sport5.stream
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 6
