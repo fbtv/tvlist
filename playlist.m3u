@@ -8,7 +8,7 @@ rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/cth3/ playpath=stream?st=mLZ-9eGy
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 3 Backup
 rtmp://$OPT:rtmp-raw=rtmp://150.107.30.17:19355/cth3/ playpath=stream?st=mLZ-9eGyiP8_OwNxYXVOCw&e=1418085203 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/2/cth3.stream
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 4
-rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/premier_league4/ playpath=stream?st=CpUlgC5eHyJuxKDw4wLy3w&e=1417932412 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/premier_league4.stream
+rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/premier_league4/ playpath=stream?st=SeFMrN2ZYqazpZR3gYdpig&e=1418658172 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/premier_league4.stream
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 5
 rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/premier_league5/ playpath=stream?st=L2CV_k3ZU8oCA3jklRljIw&e=1416805599 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/premier_league5.stream
 #EXTINF:-1 $ExtFilter="ฟุตบอล",K+1
