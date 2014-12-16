@@ -123,7 +123,7 @@ rtmp://111.223.37.199/live/thaitv3_33
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 3 SD
 http://nix02.livem3u8.me.totiptv.com/live/0296e16fac6149ed99004125f37fa2e4.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 3 Family
-http://nix02.livem3u8.me.totiptv.com/live/93d89e479ef9499a9c1ddc36b85e4190.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
+rtmp://111.223.37.199/live/thaitv3_13
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 5
 http://nix02.livem3u8.me.totiptv.com/live/1d92193b11fe490b8c67d0a88bee3fd6.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 7
