@@ -59,7 +59,7 @@ rtmp://$OPT:rtmp-raw=rtmp://live.obs.co.kr/obs/myStream.sdp
 #EXTINF:-1 $ExtFilter="วาไรตี้",ONE
 http://nix02.livem3u8.me.totiptv.com/live/7e069540a35942e89245865a84add64a.m3u8?pt=1&code=739843ba0cc0e4d05262c748f5614072
 #EXTINF:-1 $ExtFilter="วาไรตี้",Workpoint TV
-http://nix02.livem3u8.me.totiptv.com/live/a9a68ab5471d4d39ba25695a66957067.m3u8?pt=1&code=739843ba0cc0e4d05262c748f5614072
+rtmp://122.155.180.125/live/_definst_/workpoint_720p
 #EXTINF:-1 $ExtFilter="วาไรตี้",Mono 29
 rtmp://$OPT:rtmp-raw=rtmp://solution01.stream.3bb.co.th/MonoTV1080/1080p_th
 #EXTINF:-1 $ExtFilter="วาไรตี้",FOX Crime
