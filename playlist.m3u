@@ -139,8 +139,8 @@ http://nix02.livem3u8.me.totiptv.com/live/47105f5b5acc488fb43354f6fa3142c1.m3u8?
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",Nation
 http://nix02.livem3u8.me.totiptv.com/live/a5b25476119b46f5b5a34d56f7d1156c.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",TPBS
-http://nix02.livem3u8.me.totiptv.com/live/d7182fae6e9f4d929bdb5ae06059bda8.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
+http://hls.101cdn.net/hls/tpbspc.m3u8
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",PPTV
-http://nix02.livem3u8.me.totiptv.com/live/623d009180394c528880c14e2254452a.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
+rtmp://$OPT:rtmp-raw=rtmp://live11.netdesignhost.com/pptvthailandlive/ playpath=pptvthailandlive swfUrl=http://www.netdesignhost.com/streaming/flowplayer-3.2.5.swf?0.7021479263363866 pageUrl=http://www.pptvthailand.com/live
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ไทยรัฐ TV
 http://live.thairath.co.th/trtv2/trtv720/index.m3u8
