@@ -45,6 +45,8 @@ rtmp://$OPT:rtmp-raw=rtmp://150.107.30.17:19355/true_sport7/ playpath=stream?st=
 http://103.7.56.32:8081/vit/tsphd1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAxNCA2OjIxOjQ1IFBNJmhhc2hfdmFsdWU9VlE1cTJkeEUvWFRMVFgxelQxWUQzdz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport HD2
 rtmp://$OPT:rtmp-raw=rtmp://kohlive1.dyndns.tv:33412/livert/ playpath=815pihfds.stream?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAxNCA1OjU0OjA4IFBNJmhhc2hfdmFsdWU9N3FBZ1RZV1B6RDNPL1ZlNkRzNW1adz09JnZhbGlkbWludXRlcz0yMA== swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf pageUrl=http://stepfb.com/live/hidelinkdetail.php?linkcode=TVRrdE1USXRNVFV0TVRjdE5UUXRNRGM9
+#EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport HD3
+http://103.7.56.32:8081/vit/tsphd3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAxNCA2OjMxOjI4IFBNJmhhc2hfdmFsdWU9a21VVU9xRng1MjdWYUJTc25OVGpyQT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 $ExtFilter="ฟุตบอล",Sun Channel Laliga
 http://nix02.livem3u8.me.totiptv.com/live/ce4efc6a833f424f8d6cdcad5573f369.m3u8?pt=1&code=739843ba0cc0e4d05262c748f5614072
 
