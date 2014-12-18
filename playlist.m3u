@@ -20,25 +20,25 @@ rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=/xemtt live=1 swfUrl=
 #EXTINF:-1 $ExtFilter="ฟุตบอล",K+PM
 rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?43149037c487494fd9bab730476deb38b7cde8fb59bc1b789c6281970fd6e591/ playpath=kpm.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=74
 #EXTINF:-1 $ExtFilter="ฟุตบอล",GMM Football Euro
-rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/r03/ playpath=stream?st=DIPnnMwiQk6SRl9DnpTKkQ&e=1416293998 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/r03.stream
+rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?c343a0cf9c2c63544faae1a565c5234a7e32c33b5631b70fe4bedb3dfaa19894/<playpath>euro.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=81
 #EXTINF:-1 $ExtFilter="ฟุตบอล",GMM Football Plus
-rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?43149037c487494fd9bab730476deb38b7cde8fb59bc1b789c6281970fd6e591/ playpath=footballplus.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=40
+http://118.174.10.193:8081/vit/fbplus.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAxNCA2OjQyOjA0IFBNJmhhc2hfdmFsdWU9RDYwMjdQQ05YbjhITC95QjNuTy8vQT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 $ExtFilter="ฟุตบอล",GMM Football Extra
-rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?43149037c487494fd9bab730476deb38b7cde8fb59bc1b789c6281970fd6e591/ playpath=footballextra.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=12
+http://118.174.10.193:8081/vit/fbextra.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAxNCA2OjQxOjMzIFBNJmhhc2hfdmFsdWU9NFFCcG5ra3dkZzZJajFGeGsrcnp2QT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 $ExtFilter="ฟุตบอล",GMM Club Channel
-rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?43149037c487494fd9bab730476deb38b7cde8fb59bc1b789c6281970fd6e591/ playpath=club.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=19
+http://118.174.10.193:8081/vit/clubchannel.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAxNCA2OjQyOjIzIFBNJmhhc2hfdmFsdWU9Z0dDbUc2OE4rdCtNV3FGRC9xb2FSdz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True 4U
 http://nix02.livem3u8.me.totiptv.com/live/9ece9059930d4331a3d445f96fb30dff.m3u8?pt=1&code=739843ba0cc0e4d05262c748f5614072
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 1
 http://103.7.56.32:8081/vit/tsp1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAxNCA2OjM3OjI4IFBNJmhhc2hfdmFsdWU9Ly9vV1ptd1RJMEFVbCswakRtR0w4Zz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 2
-rtmp://$OPT:rtmp-raw=rtmp://ballzeez.pointto.us:1935/live?bd9e374bf108ce88a56ebce01d9d15585aef5fcf20c28207908c24f1bb5183bc/ playpath=tsp2.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=70
+http://103.7.56.32:8081/vit/tsp2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAxNCA2OjM5OjA5IFBNJmhhc2hfdmFsdWU9WUtyL0dhTWF2UExvamxtVVF6bUlDZz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 3
-rtmp://$OPT:rtmp-raw=rtmp://ballzeez.pointto.us:1935/live?bd9e374bf108ce88a56ebce01d9d15585aef5fcf20c28207908c24f1bb5183bc/ playpath=tsp32.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=77
+http://103.7.56.32:8081/vit/tsp3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAxNCA2OjM5OjQyIFBNJmhhc2hfdmFsdWU9K2kway9lVTZlT1g2UmMremNla2Y4QT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 5
-rtmp://$OPT:rtmp-raw=rtmp://ballzeez.pointto.us:1935/live?bd9e374bf108ce88a56ebce01d9d15585aef5fcf20c28207908c24f1bb5183bc/ playpath=tsp5.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=78
+http://103.7.56.47:8081/vit/tsp5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAxNCA2OjQwOjE3IFBNJmhhc2hfdmFsdWU9Z1pXcWNRbjRMY2g4TldDNnYraWZ3UT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 6
-rtmp://$OPT:rtmp-raw=rtmp://ballzeez.pointto.us:1935/live?bd9e374bf108ce88a56ebce01d9d15585aef5fcf20c28207908c24f1bb5183bc/ playpath=tsp6.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=76
+http://103.7.56.32:8081/vit/tsp6.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAxNCA2OjQwOjQ2IFBNJmhhc2hfdmFsdWU9dkxsWFM1UnlFMUFTU2ZXeDZkYkZRUT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 7
 rtmp://$OPT:rtmp-raw=rtmp://150.107.30.17:19355/true_sport7/ playpath=stream?st=c10SqiJPmfKOyBMpdCAvhA&e=1418301475 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/2/true_sport7.stream
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport HD1
