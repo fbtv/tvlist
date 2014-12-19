@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 1
-http://118.174.10.193:8081/vit/stadium1new.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAxNCA2OjI5OjI2IFBNJmhhc2hfdmFsdWU9WW1iemNSQWVpK3loNk92bzc4SWFKQT09JnZhbGlkbWludXRlcz0yMA==
+http://118.174.10.193:8081/vit/stadium1new.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAxNCA2OjQyOjIzIFBNJmhhc2hfdmFsdWU9Z0dDbUc2OE4rdCtNV3FGRC9xb2FSdz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 2
 http://103.7.56.32:8081/vit/stadium2new.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAxNCA2OjMwOjE4IFBNJmhhc2hfdmFsdWU9K2dHYmlXWlppdld6L1hqMGdva3ZZUT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 3
