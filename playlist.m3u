@@ -1,21 +1,29 @@
 #EXTM3U
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 1
 http://118.174.10.193:8081/vit/stadium1new.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAxNCA2OjQyOjIzIFBNJmhhc2hfdmFsdWU9Z0dDbUc2OE4rdCtNV3FGRC9xb2FSdz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 1 Backup
+rtmp://$OPT:rtmp-raw=
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 2
 http://118.174.10.193:8081/vit/stadium2new.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAxNCA2OjQyOjIzIFBNJmhhc2hfdmFsdWU9Z0dDbUc2OE4rdCtNV3FGRC9xb2FSdz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 2 Backup
+rtmp://$OPT:rtmp-raw=
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 3
 http://118.174.10.193:8081/vit/stadium3new.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAxNCA2OjQyOjIzIFBNJmhhc2hfdmFsdWU9Z0dDbUc2OE4rdCtNV3FGRC9xb2FSdz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 3 Backup
 rtmp://$OPT:rtmp-raw=rtmp://150.107.30.17:19355/cth3/ playpath=stream?st=mLZ-9eGyiP8_OwNxYXVOCw&e=1418085203 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/2/cth3.stream
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 4
 http://118.174.10.193:8081/vit/stadium4new.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAxNCA2OjQyOjIzIFBNJmhhc2hfdmFsdWU9Z0dDbUc2OE4rdCtNV3FGRC9xb2FSdz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 4 Backup
+rtmp://$OPT:rtmp-raw=
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 5
 http://118.174.10.193:8081/vit/stadium5new.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAxNCA2OjQyOjIzIFBNJmhhc2hfdmFsdWU9Z0dDbUc2OE4rdCtNV3FGRC9xb2FSdz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 5 Backup
+rtmp://$OPT:rtmp-raw=
 #EXTINF:-1 $ExtFilter="ฟุตบอล",K+1
 rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?43149037c487494fd9bab730476deb38b7cde8fb59bc1b789c6281970fd6e591/ playpath=k1.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=73
-#EXTINF:-1 $ExtFilter="ฟุตบอล",K+1
+#EXTINF:-1 $ExtFilter="ฟุตบอล",K+1 Backup
 rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=/broadcaster31 live=1 swfUrl=http://tv.csmtalk.vcdn.vn/talktv/resource/third-party/jwplayer/jwplayer.flash.swf?06172014 pageUrl=http://tv.csmtalk.vn/
-#EXTINF:-1 $ExtFilter="ฟุตบอล",K+1
+#EXTINF:-1 $ExtFilter="ฟุตบอล",K+1 Backup 2
 rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=/xemtt live=1 swfUrl=http://tv.csmtalk.vcdn.vn/talktv/resource/third-party/jwplayer/jwplayer.flash.swf?06172014 pageUrl=http://tv.csmtalk.vn/
 #EXTINF:-1 $ExtFilter="ฟุตบอล",K+PM
 rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?43149037c487494fd9bab730476deb38b7cde8fb59bc1b789c6281970fd6e591/ playpath=kpm.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=74
