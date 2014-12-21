@@ -3,9 +3,9 @@
 http://118.174.10.193:8081/vit/stadium1new.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAxNCA2OjQyOjIzIFBNJmhhc2hfdmFsdWU9Z0dDbUc2OE4rdCtNV3FGRC9xb2FSdz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 1 Backup
 rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/premier_league1/ playpath=stream?st=HzwlNuMvTXv8RJ64vg9Svg&e=1419450831 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/premier_league1.stream
-#EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 2
+#EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 2 23.00 ลิเวอร์พูล – อาร์เซน่อล
 http://118.174.10.193:8081/vit/stadium2new.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAxNCA2OjQyOjIzIFBNJmhhc2hfdmFsdWU9Z0dDbUc2OE4rdCtNV3FGRC9xb2FSdz09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 2 Backup
+#EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 2 Backup 23.00 ลิเวอร์พูล – อาร์เซน่อล
 rtmp://$OPT:rtmp-raw=
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 3
 http://118.174.10.193:8081/vit/stadium3new.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAxNCA2OjQyOjIzIFBNJmhhc2hfdmFsdWU9Z0dDbUc2OE4rdCtNV3FGRC9xb2FSdz09JnZhbGlkbWludXRlcz0yMA==
