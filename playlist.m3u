@@ -39,7 +39,7 @@ rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?18260cd718c144bec8eab
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 6
 rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?18260cd718c144bec8eab079895da3d98ee1f5edd4351d5957380ce0cd0bab2e/ playpath=tsp6.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=77
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 7
-http://118.174.10.196:8081/vit/tsp7.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?18260cd718c144bec8eab079895da3d98ee1f5edd4351d5957380ce0cd0bab2e/ playpath=tsp7.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=71
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport HD1
 http://118.174.10.196:8081/vit/tsphd1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport HD2
