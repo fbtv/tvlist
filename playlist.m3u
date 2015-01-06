@@ -24,8 +24,24 @@ rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?bd6e9fb3741854b266390
 
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True 4U
 http://nix02.livem3u8.me.totiptv.com/live/9ece9059930d4331a3d445f96fb30dff.m3u8?pt=1&code=739843ba0cc0e4d05262c748f5614072
+#EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 1
+http://118.174.10.196:8081/vit/tsp1.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 2
+http://118.174.10.196:8081/vit/tsp2.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 3
+http://118.174.10.196:8081/vit/tsp3.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 5
+http://118.174.10.196:8081/vit/tsp5.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 6
+http://118.174.10.196:8081/vit/tsp6.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 7
+http://118.174.10.196:8081/vit/tsp7.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport HD1
+http://118.174.10.196:8081/vit/tsphd1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport HD2
-http://118.174.10.193:8081/vit/tsphd2.stream/playlist.m3u8
+http://118.174.10.196:8081/vit/tsphd2.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport HD3
+http://118.174.10.196:8081/vit/tsphd3.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ฟุตบอล",Sun Channel Laliga
 http://nix02.livem3u8.me.totiptv.com/live/ce4efc6a833f424f8d6cdcad5573f369.m3u8?pt=1&code=739843ba0cc0e4d05262c748f5614072
 
