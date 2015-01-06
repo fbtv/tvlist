@@ -3,7 +3,7 @@
 rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/premier_league1/ playpath=stream?st=_AiIfpn-QYzpmjhgCracDA&e=1420164626 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/premier_league1.stream
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 2
 rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/premier_league2/ playpath=stream?st=b--3gKvXh4l0l2j-nomvWw&e=1420386373 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/premier_league2.stream
-#EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 3 22.00 เซาแธมป์ตัน - อาร์เซน่อล
+#EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 3
 rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/premier_league3/ playpath=stream?st=t6KhCqNc94s8i_jCbR1gJA&e=1420431615 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/premier_league3.stream
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 4
 rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/premier_league4/ playpath=stream?st=rrz6uTnooYaCx63fw0e51w&e=1420414361 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/premier_league4.stream
@@ -35,9 +35,9 @@ http://118.174.10.196:8081/vit/tsp2.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 3
 http://118.174.10.196:8081/vit/tsp3.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 5
-http://118.174.10.196:8081/vit/tsp5.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?18260cd718c144bec8eab079895da3d98ee1f5edd4351d5957380ce0cd0bab2e/ playpath=tsp5.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=76
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 6
-http://118.174.10.196:8081/vit/tsp6.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?18260cd718c144bec8eab079895da3d98ee1f5edd4351d5957380ce0cd0bab2e/ playpath=tsp6.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=77
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 7
 http://118.174.10.196:8081/vit/tsp7.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport HD1
