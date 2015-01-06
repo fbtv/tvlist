@@ -22,6 +22,10 @@ rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?bd6e9fb3741854b266390
 #EXTINF:-1 $ExtFilter="ฟุตบอล",GMM Club Channel
 rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?bd6e9fb3741854b2663904612ed4f36adada40c07b7ba752e8271fcfff052605/ playpath=club.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=19
 
+#EXTINF:-1 $ExtFilter="ฟุตบอล",Foxsports 1
+http://118.174.10.196:8081/vit/foxsport1.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="ฟุตบอล",Foxsports 2
+http://118.174.10.196:8081/vit/foxsport1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True 4U
 http://nix02.livem3u8.me.totiptv.com/live/9ece9059930d4331a3d445f96fb30dff.m3u8?pt=1&code=739843ba0cc0e4d05262c748f5614072
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 1
