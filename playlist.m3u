@@ -27,7 +27,9 @@ http://118.174.10.196:8081/vit/asn.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ฟุตบอล",Foxsports 1
 http://118.174.10.196:8081/vit/foxsport1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ฟุตบอล",Foxsports 2
-http://118.174.10.196:8081/vit/foxsport1.stream/playlist.m3u8
+http://118.174.10.196:8081/vit/foxsport2.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="ฟุตบอล",Foxsports 2
+http://118.174.10.196:8081/vit/foxsport3.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True 4U
 rtmp://edge7.psitv.tv:1935/liveedge/308235425316_600
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 1
