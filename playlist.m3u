@@ -19,17 +19,7 @@ rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?bd6e9fb3741854b266390
 rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?bd6e9fb3741854b2663904612ed4f36adada40c07b7ba752e8271fcfff052605/ playpath=footballplus.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=40
 #EXTINF:-1 $ExtFilter="ฟุตบอล",GMM Football Extra
 rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?bd6e9fb3741854b2663904612ed4f36adada40c07b7ba752e8271fcfff052605/ playpath=footballextra.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=12
-#EXTINF:-1 $ExtFilter="ฟุตบอล",GMM Club Channel
-rtsp://58.97.57.152:1935/live/_definst_/hd05.stream
 
-#EXTINF:-1 $ExtFilter="ฟุตบอล",ASN
-http://118.174.10.196:8081/vit/asn.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="ฟุตบอล",Foxsports 1
-http://118.174.10.196:8081/vit/foxsport1.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="ฟุตบอล",Foxsports 2
-http://118.174.10.196:8081/vit/foxsport2.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="ฟุตบอล",Foxsports 2
-http://118.174.10.196:8081/vit/foxsport3.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True 4U
 rtmp://$OPT:rtmp-raw=rtmp://edge7.psitv.tv:1935/liveedge/308235425316_600
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 1
@@ -53,7 +43,17 @@ http://118.174.10.196:8081/vit/tsphd3.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport HD4
 http://118.174.10.196:8081/vit/tsphd4.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ฟุตบอล",Sun Channel Laliga
-rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?18260cd718c144bec8eab079895da3d98ee1f5edd4351d5957380ce0cd0bab2e/ playpath=sun.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=10
+rtsp://58.97.57.152:1935/live/_definst_/hd05.stream
+#EXTINF:-1 $ExtFilter="ฟุตบอล",ASN
+http://118.174.10.196:8081/vit/asn.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="ฟุตบอล",Foxsports 1
+http://118.174.10.196:8081/vit/foxsport1.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="ฟุตบอล",Foxsports 2
+http://118.174.10.196:8081/vit/foxsport2.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="ฟุตบอล",Foxsports 2
+http://118.174.10.196:8081/vit/foxsport3.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="ฟุตบอล",WWE
+http://118.174.10.196:8081/vit/asn.stream/playlist.m3u8
 
 #EXTINF:-1 $ExtFilter="วาไรตี้",KBS Korea
 http://www.youtube.com/watch?v=eRcfW2KekaM
