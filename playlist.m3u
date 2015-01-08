@@ -48,6 +48,8 @@ http://118.174.10.196:8081/vit/tsphd1.stream/playlist.m3u8
 http://118.174.10.196:8081/vit/tsphd2.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport HD3
 http://118.174.10.196:8081/vit/tsphd3.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport HD4
+http://118.174.10.196:8081/vit/tsphd4.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ฟุตบอล",Sun Channel Laliga
 rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?18260cd718c144bec8eab079895da3d98ee1f5edd4351d5957380ce0cd0bab2e/ playpath=sun.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=10
 
@@ -69,6 +71,8 @@ rtmp://$OPT:rtmp-raw=rtmp://workpoint.radical-enlighten.com/workpoint/ playpath=
 rtmp://$OPT:rtmp-raw=rtmp://solution01.stream.3bb.co.th/MonoTV1080/1080p_th
 #EXTINF:-1 $ExtFilter="วาไรตี้",AXN HD
 http://118.174.10.196:8081/vit/axnhd.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="วาไรตี้",Cinemax
+http://118.174.10.196:8081/vit/cinemax.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="วาไรตี้",FOX Action Movies HD
 http://118.174.10.196:8081/vit/foxaction.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="วาไรตี้",FOX Family
@@ -79,6 +83,8 @@ http://118.174.10.196:8081/vit/foxpremium.stream/playlist.m3u8
 http://118.174.10.196:8081/vit/foxthai.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="วาไรตี้",HBO HD
 http://118.174.10.196:8081/vit/hbohd.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="วาไรตี้",HBO Hits
+http://118.174.10.196:8081/vit/hbohits.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="วาไรตี้",History
 http://118.174.10.196:8081/vit/historyhd.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="วาไรตี้",Discovery World
