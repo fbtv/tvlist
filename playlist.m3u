@@ -31,7 +31,7 @@ http://118.174.10.196:8081/vit/foxsport2.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ฟุตบอล",Foxsports 2
 http://118.174.10.196:8081/vit/foxsport3.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True 4U
-rtmp://edge7.psitv.tv:1935/liveedge/308235425316_600
+rtmp://$OPT:rtmp-raw=rtmp://edge7.psitv.tv:1935/liveedge/308235425316_600
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 1
 http://118.174.10.196:8081/vit/tsp1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 2
@@ -89,21 +89,27 @@ http://118.174.10.196:8081/vit/hbohd.stream/playlist.m3u8
 http://118.174.10.196:8081/vit/hbohits.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="วาไรตี้",History
 http://118.174.10.196:8081/vit/historyhd.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="วาไรตี้",Animal Planet
+http://118.174.10.196:8081/vit/animalplanet.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="วาไรตี้",Discovery World
 http://118.174.10.196:8081/vit/discoveryworld.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="วาไรตี้",National Geographic
 http://118.174.10.196:8081/vit/natgeo.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="วาไรตี้",Cartoon Network
 http://118.174.10.196:8081/vit/cartoonnetwork.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="วาไรตี้",Disney XD
+http://118.174.10.196:8081/vit/disneyxd.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="วาไรตี้",Disney XD
+http://118.174.10.196:8081/vit/disneyxd.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="วาไรตี้",40 50 Channel
 http://edge2.psitv.tv:1935/liveedge/307908917552_600/playlist.m3u8
 
 #EXTINF:-1 $ExtFilter="ข่าว",Aljazeera News
-http://nix02.livem3u8.me.totiptv.com/live/ea4c9d2666bc411d8e6777e8a1d2b747.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
+rtmp://$OPT:rtmp-raw=rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live?videoId=883816736001&lineUpId=&pubId=665003303001&playerId=751182905001&affiliateId= playpath=aljazeera_eng_high?videoId=883816736001&lineUpId=&pubId=665003303001&playerId=751182905001&affiliateId= swfUrl=http://admin.brightcove.com/viewer/us20141117.1347/federatedVideoUI/BrightcovePlayer.swf?uid=1420716081039 pageUrl=http://www.aljazeera.com/watch_now/
 #EXTINF:-1 $ExtFilter="ข่าว",Euro News
-http://nix02.livem3u8.me.totiptv.com/live/3f35c4428a0d4004a38ff0adba7664f4.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
+http://ewns-hls-b-cdn.hexaglobe.net/68bad634046efb65c6f3794acd0b85c8/54ae68ec/euronews_eng.smil/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ข่าว",Sky News
-http://nix02.livem3u8.me.totiptv.com/live/31b003ab7e7749a798fe00424e3dd9ff.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
+https://www.youtube.com/watch?v=VYlQJbsVs48
 #EXTINF:-1 $ExtFilter="ข่าว",Fox News
 http://nix02.livem3u8.me.totiptv.com/live/1e2041858ca543fa90ec95d28197e907.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
 #EXTINF:-1 $ExtFilter="ข่าว",MSNBC
@@ -122,7 +128,7 @@ http://nix02.livem3u8.me.totiptv.com/live/1d92193b11fe490b8c67d0a88bee3fd6.m3u8?
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 7
 rtmp://je7.bugaboo.tv/liveedgech7/_definst_/1080p
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 8
-rtmp://edge7.psitv.tv:1935/liveedge/292277209720_600
+rtmp://$OPT:rtmp-raw=rtmp://edge7.psitv.tv:1935/liveedge/292277209720_600
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 9
 http://nix02.livem3u8.me.totiptv.com/live/3ae2fd6ccaf6499e898de377ed74ea12.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",NBT
