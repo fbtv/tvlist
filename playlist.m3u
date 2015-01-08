@@ -58,7 +58,7 @@ rtmp://$OPT:rtmp-raw=rtmp://123.214.216.18:554/live/tv
 #EXTINF:-1 $ExtFilter="วาไรตี้",OBS Korea
 rtmp://$OPT:rtmp-raw=rtmp://live.obs.co.kr/obs/myStream.sdp
 #EXTINF:-1 $ExtFilter="วาไรตี้",ONE
-http://nix02.livem3u8.me.totiptv.com/live/7e069540a35942e89245865a84add64a.m3u8?pt=1&code=739843ba0cc0e4d05262c748f5614072
+http://202.142.220.224:1935/gmmone/gmmone/playlist.m3u8
 #EXTINF:-1 $ExtFilter="วาไรตี้",Workpoint TV
 rtmp://122.155.180.125/live/_definst_/workpoint_720p
 #EXTINF:-1 $ExtFilter="วาไรตี้",Workpoint TV Backup
