@@ -29,7 +29,7 @@ http://118.174.10.196:8081/vit/foxsport1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ฟุตบอล",Foxsports 2
 http://118.174.10.196:8081/vit/foxsport1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True 4U
-http://nix02.livem3u8.me.totiptv.com/live/9ece9059930d4331a3d445f96fb30dff.m3u8?pt=1&code=739843ba0cc0e4d05262c748f5614072
+http://edge7.psitv.tv:1935/liveedge/308235425316_600/
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 1
 http://118.174.10.196:8081/vit/tsp1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 2
