@@ -49,16 +49,6 @@ http://118.174.10.196:8081/vit/tsphd3.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ฟุตบอล",Sun Channel Laliga
 rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?18260cd718c144bec8eab079895da3d98ee1f5edd4351d5957380ce0cd0bab2e/ playpath=sun.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://www.ballzeez.com/ดูบอลออนไลน์/channel=10
 
-#EXTINF:-1 $ExtFilter="วาไรตี้",AXN HD
-http://118.174.10.196:8081/vit/axnhd.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="วาไรตี้",FOX Action Movies HD
-http://118.174.10.196:8081/vit/foxaction.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="วาไรตี้",FOX Thai
-http://118.174.10.196:8081/vit/foxthai.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="วาไรตี้",HBO HD
-http://118.174.10.196:8081/vit/hbohd.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="วาไรตี้",History
-http://118.174.10.196:8081/vit/historyhd.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="วาไรตี้",KBS Korea
 http://www.youtube.com/watch?v=eRcfW2KekaM
 #EXTINF:-1 $ExtFilter="วาไรตี้",MBC Korea
@@ -75,46 +65,26 @@ rtmp://122.155.180.125/live/_definst_/workpoint_720p
 rtmp://$OPT:rtmp-raw=rtmp://workpoint.radical-enlighten.com/workpoint/ playpath=workpoint_720p swfUrl=http://radical-enlighten.com/project/player.swf pageUrl=http://www.workpointtv.com/player/desktop-player-hd.html
 #EXTINF:-1 $ExtFilter="วาไรตี้",Mono 29
 rtmp://$OPT:rtmp-raw=rtmp://solution01.stream.3bb.co.th/MonoTV1080/1080p_th
-#EXTINF:-1 $ExtFilter="วาไรตี้",FOX Crime
-http://nix02.livem3u8.me.totiptv.com/live/5028f7ff1d1b4d5f8189690233364737.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
-#EXTINF:-1 $ExtFilter="วาไรตี้",FX
-http://nix02.livem3u8.me.totiptv.com/live/2e0e4b05aa6e428593f3b45b710045b7.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
-#EXTINF:-1 $ExtFilter="วาไรตี้",Sony TV
-http://nix02.livem3u8.me.totiptv.com/live/bd30e27f1c48430ba2104548a1b124ca.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
-#EXTINF:-1 $ExtFilter="วาไรตี้",Syfy
-http://nix02.livem3u8.me.totiptv.com/live/71f197de056e499a85265c03b44bdab1.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
-#EXTINF:-1 $ExtFilter="วาไรตี้",Star World
-http://nix02.livem3u8.me.totiptv.com/live/65f7358b813048a0898f5677e1793cf9.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
-#EXTINF:-1 $ExtFilter="วาไรตี้",Star Chinese Movies Legend
-http://nix02.livem3u8.me.totiptv.com/live/c8233976dbba4a06a101780907447375.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
-#EXTINF:-1 $ExtFilter="วาไรตี้",Universal Channel
-http://nix02.livem3u8.me.totiptv.com/live/a7105ed1bb0a44bba1f4f71f2352b892.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
-#EXTINF:-1 $ExtFilter="วาไรตี้",Boomerang
-http://nix02.livem3u8.me.totiptv.com/live/06c02432266f4f42b48947e075de38c5.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
-#EXTINF:-1 $ExtFilter="วาไรตี้",Baby TV
-http://nix02.livem3u8.me.totiptv.com/live/7773f3cef0334a28ad248552ea63d9e7.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
-#EXTINF:-1 $ExtFilter="วาไรตี้",Nick Jr
-http://nix02.livem3u8.me.totiptv.com/live/2b72986be9314c139db95f6098d1c413.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
-#EXTINF:-1 $ExtFilter="วาไรตี้",Cartoonito
-http://nix02.livem3u8.me.totiptv.com/live/dff1502eb25c4912aea009df5d0fde9b.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
-#EXTINF:-1 $ExtFilter="วาไรตี้",Cartoon Club
-http://nix02.livem3u8.me.totiptv.com/live/860605f7e16d4c6cacef72ef02ffa2c1.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
-#EXTINF:-1 $ExtFilter="วาไรตี้",Gang Cartoon
-http://nix02.livem3u8.me.totiptv.com/live/7299670a140849a9aaf946b0302ad886.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
-#EXTINF:-1 $ExtFilter="วาไรตี้",Animax
-http://nix02.livem3u8.me.totiptv.com/live/d3edb48a8bb847c78432270e23ddca73.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
-#EXTINF:-1 $ExtFilter="วาไรตี้",Nat Geo People
-http://nix02.livem3u8.me.totiptv.com/live/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
-#EXTINF:-1 $ExtFilter="วาไรตี้",Nat Geo Wild
-http://nix02.livem3u8.me.totiptv.com/live/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
-#EXTINF:-1 $ExtFilter="วาไรตี้",Bio Thai
-http://nix02.livem3u8.me.totiptv.com/live/169a149fd1ef40edba0bbfc8e0f1bdd1.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
-#EXTINF:-1 $ExtFilter="วาไรตี้",CI
-http://nix02.livem3u8.me.totiptv.com/live/9961a963920f45f4bc0d81c3e478b334.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
-#EXTINF:-1 $ExtFilter="วาไรตี้",Travel Channel International
-http://nix02.livem3u8.me.totiptv.com/live/4c136f4cb1fd4f62a583a029c2eb6c77.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
-#EXTINF:-1 $ExtFilter="วาไรตี้",The Africa Channel
-http://nix02.livem3u8.me.totiptv.com/live/eea31a4e48aa4d51a4ce8cdaa1c3a957.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
+#EXTINF:-1 $ExtFilter="วาไรตี้",AXN HD
+http://118.174.10.196:8081/vit/axnhd.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="วาไรตี้",FOX Action Movies HD
+http://118.174.10.196:8081/vit/foxaction.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="วาไรตี้",FOX Family
+http://118.174.10.196:8081/vit/foxfamily.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="วาไรตี้",FOX Premium Movies HD
+http://118.174.10.196:8081/vit/foxpremium.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="วาไรตี้",FOX Thai
+http://118.174.10.196:8081/vit/foxthai.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="วาไรตี้",HBO HD
+http://118.174.10.196:8081/vit/hbohd.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="วาไรตี้",History
+http://118.174.10.196:8081/vit/historyhd.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="วาไรตี้",Discovery World
+http://118.174.10.196:8081/vit/discoveryworld.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="วาไรตี้",National Geographic
+http://118.174.10.196:8081/vit/natgeo.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="วาไรตี้",Cartoon Network
+http://118.174.10.196:8081/vit/cartoonnetwork.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="วาไรตี้",40 50 Channel
 http://edge2.psitv.tv:1935/liveedge/307908917552_600/playlist.m3u8
 
