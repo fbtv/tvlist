@@ -53,6 +53,8 @@ rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?18260cd718c144bec8eab
 http://118.174.10.196:8081/vit/axnhd.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="วาไรตี้",FOX Action Movies HD
 http://118.174.10.196:8081/vit/foxaction.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="วาไรตี้",FOX Thai
+http://118.174.10.196:8081/vit/foxthai.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="วาไรตี้",HBO HD
 http://118.174.10.196:8081/vit/hbohd.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="วาไรตี้",History
