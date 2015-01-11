@@ -3,7 +3,7 @@
 rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/premier_league1/ playpath=stream?st=_AiIfpn-QYzpmjhgCracDA&e=1420164626 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/premier_league1.stream
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 2
 rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/premier_league2/ playpath=stream?st=rprgYfzrxJO2uRgFp21IHw&e=1421222897 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/premier_league2.stream
-#EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 3
+#EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 3 20.30 น. อาร์เซน่อล - สโต๊ค ซิตี้
 rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/premier_league3/ playpath=stream?st=t6KhCqNc94s8i_jCbR1gJA&e=1420431615 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/premier_league3.stream
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 4
 rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/premier_league4/ playpath=stream?st=rrz6uTnooYaCx63fw0e51w&e=1420414361 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/premier_league4.stream
