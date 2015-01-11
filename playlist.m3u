@@ -37,11 +37,7 @@ rtmp://$OPT:rtmp-raw=rtmp://ballzeez2.pointto.us:1935/live?18260cd718c144bec8eab
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport HD1
 http://118.174.10.196:8081/vit/tsphd1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport HD2
-http://118.174.10.196:8081/vit/tsphd2.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport HD3
-http://118.174.10.196:8081/vit/tsphd3.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport HD4
-http://118.174.10.196:8081/vit/tsphd4.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/true_hd2/ playpath=stream?st=Ki4Ylgd_otdLH-o6gVYeWQ&e=1421056077 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/true_hd2.stream
 #EXTINF:-1 $ExtFilter="ฟุตบอล",Sun Channel Laliga
 rtsp://58.97.57.152:1935/live/_definst_/hd05.stream
 #EXTINF:-1 $ExtFilter="ฟุตบอล",ASN
@@ -53,7 +49,7 @@ http://118.174.10.196:8081/vit/foxsport2.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ฟุตบอล",Foxsports 2
 http://118.174.10.196:8081/vit/foxsport3.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ฟุตบอล",WWE
-http://118.174.10.196:8081/vit/asn.stream/playlist.m3u8
+http://118.174.10.196:8081/vit/wwe.stream/playlist.m3u8
 
 #EXTINF:-1 $ExtFilter="วาไรตี้",KBS Korea
 http://www.youtube.com/watch?v=eRcfW2KekaM
