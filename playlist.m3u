@@ -2,7 +2,7 @@
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 1
 http://bit.ly/1H0y9UI
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 2
-rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/premier_league2/ playpath=stream?st=y9t46a8N_KsCowhuRzaEog&e=1421842789 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/premier_league2.stream
+http://bit.ly/1w7ASuh
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 3
 rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/premier_league3/ playpath=stream?st=YNhivQfY73G5Bgv4XqEw0A&e=1421663414 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/premier_league3.stream
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH 4
