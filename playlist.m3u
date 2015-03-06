@@ -122,7 +122,7 @@ http://111.223.37.199/live/thaitv3_13/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 5
 http://nix02.livem3u8.me.totiptv.com/live/1d92193b11fe490b8c67d0a88bee3fd6.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 7
-rtmp://je7.bugaboo.tv/liveedgech7/_definst_/1080p
+rtmp://112.121.153.190/liveedgech7/_definst_/1080p
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 8
 rtmp://$OPT:rtmp-raw=rtmp://edge7.psitv.tv:1935/liveedge/292277209720_600
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 9
@@ -134,6 +134,6 @@ http://nix02.livem3u8.me.totiptv.com/live/a5b25476119b46f5b5a34d56f7d1156c.m3u8?
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",TPBS
 http://hls.101cdn.net/hls/tpbspc.m3u8
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",PPTV
-rtmp://$OPT:rtmp-raw=rtmp://live11.netdesignhost.com/pptvthailandlive/ playpath=pptvthailandlive swfUrl=http://www.netdesignhost.com/streaming/flowplayer-3.2.5.swf?0.7021479263363866 pageUrl=http://www.pptvthailand.com/live
+http://pptv.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ไทยรัฐ TV
 http://live.thairath.co.th/trtv2/trtv720/index.m3u8
