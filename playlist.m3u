@@ -66,7 +66,7 @@ http://202.142.220.224:1935/gmmone/gmmone/playlist.m3u8
 #EXTINF:-1 $ExtFilter="วาไรตี้",Workpoint TV Backup
 rtmp://$OPT:rtmp-raw=rtmp://workpoint.radical-enlighten.com/workpoint/ playpath=workpoint_720p swfUrl=http://radical-enlighten.com/project/player.swf pageUrl=http://www.workpointtv.com/player/desktop-player-hd.html
 #EXTINF:-1 $ExtFilter="วาไรตี้",Mono 29
-rtmp://$OPT:rtmp-raw=rtmp://solution01.stream.3bb.co.th/MonoTV1080/1080p_th
+rtmp://$OPT:rtmp-raw=rtmp://solution01.stream.3bb.co.th:1935/MonoTV1080 playpath=1080p_th swfUrl=http://mono29.mthai.com/feed/stream/flow_flash/flowplayer.commercial-3.2.18.swf pageUrl=http://mono29.mthai.com/livetv
 #EXTINF:-1 $ExtFilter="วาไรตี้",AXN HD
 http://118.174.10.196:8081/vit/axnhd.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="วาไรตี้",Cinemax
