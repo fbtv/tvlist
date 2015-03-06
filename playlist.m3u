@@ -54,9 +54,10 @@ http://118.174.10.196:8081/vit/wwe.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="วาไรตี้",KBS Korea
 http://www.youtube.com/watch?v=eRcfW2KekaM
 #EXTINF:-1 $ExtFilter="วาไรตี้",MBC Korea
-rtmp://fms.mbcgn.kr/livepkgr_c_tv/livestream2
+rtmp://$OPT:rtmp-raw=rtmp://fms.mbcgn.kr/livepkgr_c_tv/livestream2
 #EXTINF:-1 $ExtFilter="วาไรตี้",SBS Plus Korea
-rtmp://nlive.sbs.co.kr/sbspluspc?u=sbs&type=asp&q=KDE3W39xAXJ9endQf3AAcX98SmwsJUJ6fWd3SH1vAA%3D%3D/sbsplus3.stream
+rtmp://$OPT:rtmp-raw=rtmp://nlive.sbs.co.kr/sbspluspc?u=sbs&type=asp&q=KDE3W39xAXJ9endQf3MAdH94SmwsJUJ6fWd3SH1vAA%3D%3D playpath=sbsplus3.stream swfUrl=http://player.olweb.tv//player15/cmp.swf pageUrl=http://www.olweb.me/frame/sbs-plus-korea-s1.html
+
 #EXTINF:-1 $ExtFilter="วาไรตี้",TJB SBS Korea
 rtmp://$OPT:rtmp-raw=rtmp://123.214.216.18:554/live/tv
 #EXTINF:-1 $ExtFilter="วาไรตี้",OBS Korea
