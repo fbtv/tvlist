@@ -13,7 +13,7 @@ rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/premier_league5/ playpath=stream?
 #EXTINF:-1 $ExtFilter="ฟุตบอล" tvg-logo="..\Channel\Logo\GMM Football Extra.jpg",GMM Football Extra
 rtmp://$OPT:rtmp-raw=rtmp://103.22.181.53:1935/live/ playpath=gmmextra?e1ef0b7e8c8c402c9dd12a19ff82426b5adba5f86e2ee7f40228cd01bbb9329b swfUrl=https://ssl.p.jwpcdn.com/6/9/jwplayer.flash.swf pageUrl=http://www.ball2like.com/gmax.php
 
-#EXTINF:-1 $ExtFilter="ฟุตบอล",True 4U
+#EXTINF:-1 $ExtFilter="ฟุตบอล" tvg-logo="..\Channel\Logo\True 4U.jpg",True 4U
 http://edge7.psitv.tv:1935/liveedge/308235425316_600/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 1
 http://118.174.10.196:8081/vit/tsp1.stream/playlist.m3u8
@@ -107,9 +107,9 @@ http://nix02.livem3u8.me.totiptv.com/live/7f2989e3f87e4efdb36bac56b64dca62.m3u8?
 #EXTINF:-1 $ExtFilter="ข่าว",NHK World
 http://nix02.livem3u8.me.totiptv.com/live/cd25fccffa6f4a2f8d7190d3e8907440.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
 
-#EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 3
+#EXTINF:-1 $ExtFilter="ดิจิตอลทีวี" tvg-logo="..\Channel\Logo\Channel tv 3.jpg",ช่อง 3
 rtmp://$OPT:rtmp-raw=rtmp://tvjaa2.mine.nu:1935/tvjaa?529c393126ffeb8bbd93a74337f449238d07605592f001f72aa2ea4a8b302e18 playpath=ch3hi.stream swfUrl=http://www.tvjaa.com/player/newplayer.swf pageUrl=http://www.tvjaa.com/stream2/3-channel-news.php
-#EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 3 SD
+#EXTINF:-1 $ExtFilter="ดิจิตอลทีวี" tvg-logo="..\Channel\Logo\Channel tv 3 sd.jpg",ช่อง 3 SD
 http://111.223.37.199/live/thaitv3_28/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 3 Family
 http://111.223.37.199/live/thaitv3_13/playlist.m3u8
