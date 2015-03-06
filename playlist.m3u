@@ -114,7 +114,7 @@ http://nix02.livem3u8.me.totiptv.com/live/7f2989e3f87e4efdb36bac56b64dca62.m3u8?
 http://nix02.livem3u8.me.totiptv.com/live/cd25fccffa6f4a2f8d7190d3e8907440.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
 
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 3
-http://111.223.37.199/live/thaitv3_33/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://tvjaa2.mine.nu:1935/tvjaa?529c393126ffeb8bbd93a74337f449238d07605592f001f72aa2ea4a8b302e18 playpath=ch3hi.stream swfUrl=http://www.tvjaa.com/player/newplayer.swf pageUrl=http://www.tvjaa.com/stream2/3-channel-news.php
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 3 SD
 http://111.223.37.199/live/thaitv3_28/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 3 Family
