@@ -123,7 +123,7 @@ http://111.223.37.199/live/thaitv3_13/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 5
 http://61.91.12.34:1935/live/smil:tv5adaptive.smil/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 7
-rtmp://$OPT:rtmp-rawrtmp://tvjaa.mine.nu:1935/tvjaa?3c0863fc4553dc310636e865707ce7ab539c95449af4d77078b6efd891b87a22 playpath=ch7hi.stream swfUrl=http://www.tvjaa.com/player/newplayer.swf pageUrl=http://www.tvjaa.com/stream/channel7.php
+rtmp://$OPT:rtmp-raw=rtmp://tvjaa2.mine.nu:1935/tvjaa?3c0863fc4553dc310636e865707ce7ab539c95449af4d77078b6efd891b87a22 playpath=ch7hi.stream swfUrl=http://www.tvjaa.com/player/newplayer.swf pageUrl=http://www.tvjaa.com/stream/channel7.php
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 8
 http://edge7.psitv.tv:1935/liveedge/292277209720_600/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 9
