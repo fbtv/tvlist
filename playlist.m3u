@@ -124,13 +124,9 @@ http://61.91.12.34:1935/live/smil:tv5adaptive.smil/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 7
 rtmp://edge6.bugaboo.tv/liveedgech7/_definst_/720p
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 8
-rtmp://edge7.psitv.tv:1935/liveedge/292277209720_600/playlist.m3u8
+http://edge7.psitv.tv:1935/liveedge/292277209720_600/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 9
 rtmp://mediaxi.mcot.net/live//mp4:tcr1_ch1_1200
-#EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",NBT
-http://nix02.livem3u8.me.totiptv.com/live/47105f5b5acc488fb43354f6fa3142c1.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
-#EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",Nation
-http://nix02.livem3u8.me.totiptv.com/live/a5b25476119b46f5b5a34d56f7d1156c.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",TPBS
 http://hls.101cdn.net/hls/tpbspc.m3u8
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",PPTV
