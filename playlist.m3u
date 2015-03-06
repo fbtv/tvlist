@@ -123,11 +123,11 @@ http://111.223.37.199/live/thaitv3_13/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 5
 http://61.91.12.34:1935/live/smil:tv5adaptive.smil/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 7
-rtmp://edge6.bugaboo.tv/liveedgech7/_definst_/720p
+rtmp://$OPT:rtmp-raw=rtmp://edge1.bugaboo.tv/liveedgech7/_definst_/1080p
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 8
 http://edge7.psitv.tv:1935/liveedge/292277209720_600/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 9
-rtmp://mediaxi.mcot.net/live//mp4:tcr1_ch1_1200
+rtmp://$OPT:rtmp-raw=rtmp://mediaxi.mcot.net/live//mp4:tcr1_ch1_1200
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",TPBS
 http://hls.101cdn.net/hls/tpbspc.m3u8
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",PPTV
