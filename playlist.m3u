@@ -122,7 +122,7 @@ http://111.223.37.199/live/thaitv3_13/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 5
 http://nix02.livem3u8.me.totiptv.com/live/1d92193b11fe490b8c67d0a88bee3fd6.m3u8?pt=1&code=dffd3bc0d94d0a5f5dc8efbc969b011f
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 7
-rtmp://112.121.153.190/liveedgech7/_definst_/1080p
+rtmp://112.121.153.154/liveedgech7/_definst_/1080p
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 8
 rtmp://$OPT:rtmp-raw=rtmp://edge7.psitv.tv:1935/liveedge/292277209720_600
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 9
