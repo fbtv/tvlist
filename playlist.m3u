@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 $ExtFilter="ฟุตบอล" tvg-logo="..\Channel\Logo\cth1.jpg",CTH 1
+#EXTINF:-1 $ExtFilter="ฟุตบอล" tvg-logo="..\Channel\Logo\aaa1.jpg",CTH 1
 http://bit.ly/1CCsPbc
-#EXTINF:-1 $ExtFilter="ฟุตบอล" tvg-logo="..\Channel\Logo\cth2.jpg",CTH 2
+#EXTINF:-1 $ExtFilter="ฟุตบอล" tvg-logo="..\Channel\Logo\bbb2.jpg",CTH 2
 http://bit.ly/1G2zxVE
-#EXTINF:-1 $ExtFilter="ฟุตบอล" tvg-logo="..\Channel\Logo\cth3.jpg",CTH 3
+#EXTINF:-1 $ExtFilter="ฟุตบอล" tvg-logo="..\Channel\Logo\ccc3.jpg",CTH 3
 http://bit.ly/1zQ1knB
-#EXTINF:-1 $ExtFilter="ฟุตบอล" tvg-logo="..\Channel\Logo\cth4.jpg",CTH 4
+#EXTINF:-1 $ExtFilter="ฟุตบอล" tvg-logo="..\Channel\Logo\ddd4.jpg",CTH 4
 rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/premier_league4/ playpath=stream?st=eDJLnY3rh4yVLAZR1vuc2g&e=1421817922 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/premier_league4.stream
-#EXTINF:-1 $ExtFilter="ฟุตบอล" tvg-logo="..\Channel\Logo\cth5.jpg",CTH 5
+#EXTINF:-1 $ExtFilter="ฟุตบอล" tvg-logo="..\Channel\Logo\eee5.jpg",CTH 5
 rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/premier_league5/ playpath=stream?st=nBkRQkxf__27e1i3OAwsCQ&e=1421716213 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/premier_league5.stream
 #EXTINF:-1 $ExtFilter="ฟุตบอล",K+1
 rtmp://$OPT:rtmp-raw=
