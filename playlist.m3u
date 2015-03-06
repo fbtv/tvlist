@@ -21,6 +21,8 @@ http://edge7.psitv.tv:1935/liveedge/308235425316_600/playlist.m3u8
 rtmp://$OPT:rtmp-raw=rtmp://aur84dur5482ba.servep2p.com:1935/hellaball?947f6754e3ab8fcca848e55eb6fd9adc828c9e4ab31dc2b84ff5957720bd01cc/ playpath=tsp12.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://hellaball.com/channel=10
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 2
 rtmp://$OPT:rtmp-raw=rtmp://aur84dru5482ba.servep2p.com:1935/hellaball?947f6754e3ab8fcca848e55eb6fd9adc828c9e4ab31dc2b84ff5957720bd01cc/ playpath=tsp2.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://hellaball.com/channel=11
+#EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 3
+rtmp://$OPT:rtmp-raw=rtmp://aur84dru5482ba.servep2p.com:1935/hellaball?947f6754e3ab8fcca848e55eb6fd9adc828c9e4ab31dc2b84ff5957720bd01cc/ playpath=tsp32.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://hellaball.com/channel=12
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 5
 rtmp://$OPT:rtmp-raw=rtmp://103.22.181.53:1935/live/ playpath=tsp15?813a9fb54d5335b2652ae719223439d55a4cdee3859b7594d581c10cecc7d3e8 swfUrl=https://ssl.p.jwpcdn.com/6/9/jwplayer.flash.swf pageUrl=http://www.ball2like.com/tsp5.php
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport 6
