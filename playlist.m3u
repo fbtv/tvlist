@@ -58,7 +58,7 @@ rtmp://$OPT:rtmp-raw=rtmp://123.214.216.18:554/live/tv
 #EXTINF:-1 $ExtFilter="วาไรตี้",OBS Korea
 rtmp://$OPT:rtmp-raw=rtmp://live.obs.co.kr/obs/myStream.sdp
 #EXTINF:-1 $ExtFilter="วาไรตี้",ONE
-http://202.142.220.224:1935/gmmone/gmmone/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://202.142.220.224:1935/gmmone/gmmone
 #EXTINF:-1 $ExtFilter="วาไรตี้",Workpoint TV
 rtmp://$OPT:rtmp-raw=rtmp://workpoint.radical-enlighten.com/workpoint/ playpath=workpoint_720p swfUrl=http://radical-enlighten.com/project/player.swf pageUrl=http://www.workpointtv.com/player/desktop-player-hd.html
 #EXTINF:-1 $ExtFilter="วาไรตี้",Mono 29
