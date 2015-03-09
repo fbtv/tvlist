@@ -118,7 +118,7 @@ http://111.223.37.199/live/thaitv3_13/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 5
 http://61.91.12.34:1935/live/smil:tv5adaptive.smil/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 7
-rtmp://$OPT:rtmp-raw=rtmp://edge1.bugaboo.tv/liveedgech7 playpath=livech71 swfUrl=http://www.bugaboo.tv/themes/third_party/mediaplayer/player.swf pageUrl=http://www.bugaboo.tv/_live_home/ifram_player/151671/170659/hd/19
+rtmp://$OPT:rtmp-raw=rtmp://edge7.bugaboo.tv/liveedgech7 playpath=livech71 swfUrl=http://www.bugaboo.tv/themes/third_party/mediaplayer/player.swf pageUrl=http://www.bugaboo.tv/_live_home/ifram_player/151671/170659/hd/19
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 8
 http://edge7.psitv.tv:1935/liveedge/292277209720_600/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ดิจิตอลทีวี",ช่อง 9
