@@ -11,7 +11,7 @@ rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/premier_league4/ playpath=stream?
 rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/premier_league5/ playpath=stream?st=nBkRQkxf__27e1i3OAwsCQ&e=1421716213 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/premier_league5.stream
 
 #EXTINF:-1 $ExtFilter="ฟุตบอล",GMM Football Extra
-rtmp://$OPT:rtmp-raw=rtmp://103.22.181.53:1935/live/ playpath=gmmextra?e1ef0b7e8c8c402c9dd12a19ff82426b5adba5f86e2ee7f40228cd01bbb9329b swfUrl=https://ssl.p.jwpcdn.com/6/9/jwplayer.flash.swf pageUrl=http://www.ball2like.com/gmax.php
+rtmp://$OPT:rtmp-raw=rtmp://stream1.7mscorethai.com:19355/gmm_footballextra/ playpath=stream?st=snG7FexhumC_SDt-hxholA&e=1426527186 =swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://live.7mscorethai.com:1935/WapxdiX_XwqLiKv9gXTSvw/1/gmm_footballextra.stream
 #EXTINF:-1 $ExtFilter="ฟุตบอล",GMM Football Euro
 rtmp://$OPT:rtmp-raw=rtmp://aur84dur5482ba.servep2p.com:1935/hellaball?947f6754e3ab8fcca848e55eb6fd9adc828c9e4ab31dc2b84ff5957720bd01cc/ playpath=euro.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://hellaball.com/channel=52
 
@@ -32,7 +32,7 @@ http://bit.ly/1A8FQTV
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport HD 1
 http://bit.ly/1wRnbQX
 #EXTINF:-1 $ExtFilter="ฟุตบอล",True Sport HD 2
-http://bit.ly/1KGpI6A
+rtmp://$OPT:rtmp-raw=rtmp://stream1.7mscorethai.com:19355/r01/ playpath=stream?st=ji7WaY0HQJVN7bvt0aOLhw&e=1426440662 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://live.7mscorethai.com:1935/WapxdiX_XwqLiKv9gXTSvw/1/r01.stream
 #EXTINF:-1 $ExtFilter="ฟุตบอล",Sun Channel Laliga
 rtmp://$OPT:rtmp-raw=rtmp://103.22.181.53:1935/live/ playpath=sunch?e1ef0b7e8c8c402c9dd12a19ff82426b5adba5f86e2ee7f40228cd01bbb9329b swfUrl=https://ssl.p.jwpcdn.com/6/9/jwplayer.flash.swf pageUrl=http://www.ball2like.com/sun.php
 #EXTINF:-1 $ExtFilter="ฟุตบอล",ASN
