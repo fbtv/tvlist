@@ -4,7 +4,7 @@ http://bit.ly/1CCsPbc
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH Stadium 2
 http://bit.ly/1G2zxVE
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH Stadium 3
-http://bit.ly/1zQ1knB
+http://bit.ly/1Cfs1te
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH Stadium 4
 rtmp://$OPT:rtmp-raw=rtmp://103.7.57.211:19355/premier_league4/ playpath=stream?st=eDJLnY3rh4yVLAZR1vuc2g&e=1421817922 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.score7m.com/1/premier_league4.stream
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH Stadium 5
