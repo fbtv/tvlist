@@ -11,7 +11,8 @@ http://bit.ly/1La1Loc
 http://bit.ly/18JNQ6D
 
 #EXTINF:-1 $ExtFilter="ฟุตบอล",GMM Football Extra
-rtmp://$OPT:rtmp-raw=rtmp://stream1.7mscorethai.com:19355/gmm_footballextra/ playpath=stream?st=snG7FexhumC_SDt-hxholA&e=1426527186 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://live.7mscorethai.com:1935/WapxdiX_XwqLiKv9gXTSvw/1/gmm_footballextra.stream
+rtmp://$OPT:rtmp-raw=rtmp://stream1.sbo.click:19355/gmm_footballextra/ playpath=stream?st=0-DftmCFpEcfgciUMFwKAw&e=1426459708 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://live.sbo.click:1935/0/a8acf604-JSThgp4xxvt6BJp3qKGriA/gmm_footballextra.stream
+
 #EXTINF:-1 $ExtFilter="ฟุตบอล",GMM Football Euro
 rtmp://$OPT:rtmp-raw=rtmp://aur84dur5482ba.servep2p.com:1935/hellaball?947f6754e3ab8fcca848e55eb6fd9adc828c9e4ab31dc2b84ff5957720bd01cc/ playpath=euro.stream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://hellaball.com/channel=52
 
