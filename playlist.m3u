@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH Stadium 1
-http://bit.ly/1Edp7jL
+http://bit.ly/1MAnjb7
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH Stadium 2
-http://bit.ly/1xmmI3Z
+http://bit.ly/19k4IC7
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH Stadium 3 Arsenal - West Ham
-http://bit.ly/1La1HVH
+http://bit.ly/19k4N8T
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH Stadium 4
-http://bit.ly/1La1Loc
+http://bit.ly/1BhuRXL
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH Stadium 5
-http://bit.ly/18JNQ6D
+http://bit.ly/1FlNO1R
 
 #EXTINF:-1 $ExtFilter="ฟุตบอล",GMM Football Extra
 rtmp://$OPT:rtmp-raw=rtmp://stream1.sbo.click:19355/gmm_footballextra/ playpath=stream?st=0-DftmCFpEcfgciUMFwKAw&e=1426459708 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://live.sbo.click:1935/0/a8acf604-JSThgp4xxvt6BJp3qKGriA/gmm_footballextra.stream
