@@ -3,7 +3,7 @@
 http://bit.ly/1MAnjb7
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH Stadium 2
 http://bit.ly/19k4IC7
-#EXTINF:-1 $ExtFilter="ฟุตบอล",CTH Stadium 3 Arsenal - West Ham
+#EXTINF:-1 $ExtFilter="ฟุตบอล",CTH Stadium 3
 http://bit.ly/19k4N8T
 #EXTINF:-1 $ExtFilter="ฟุตบอล",CTH Stadium 4
 http://bit.ly/1BhuRXL
@@ -47,6 +47,16 @@ http://118.174.10.196:8081/vit/foxsport2.stream/playlist.m3u8
 http://118.174.10.196:8081/vit/foxsport3.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ฟุตบอล",WWE
 http://118.174.10.196:8081/vit/wwe.stream/playlist.m3u8
+
+#EXTINF:-1 $ExtFilter="ฟุตบอล",Bein Sport 2 HD
+http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/2.ts
+#EXTINF:-1 $ExtFilter="ฟุตบอล",Bein Sport 3 HD
+http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/3.ts
+#EXTINF:-1 $ExtFilter="ฟุตบอล",Bein Sport 11 HD
+http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/11.ts
+#EXTINF:-1 $ExtFilter="ฟุตบอล",Bein Sport 14 HD
+http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/14.ts
+
 
 #EXTINF:-1 $ExtFilter="วาไรตี้",KBS Korea
 http://www.youtube.com/watch?v=eRcfW2KekaM
