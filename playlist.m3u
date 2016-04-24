@@ -1,27 +1,39 @@
 #EXTM3U
-#EXTINF:,ช่อง 3
+#EXTINF:-1,ช่อง 3
 rtmp://$OPT:rtmp-raw=rtmp://live.cuptv.com/live playpath=ch3hd4 swfUrl=http://cuptv.com/flowplayer.commercial-3.2.5.swf?0.48622388011759177 pageUrl=http://cuptv.com/live_frame.php?ch=ch3hd4
-#EXTINF:,ช่อง 5
+#EXTINF:-1,ช่อง 5
 rtmp://$OPT:rtmp-raw=rtmp://live.cuptv.com/live playpath=ch5hd4 swfUrl=http://cuptv.com/flowplayer.commercial-3.2.5.swf?0.10197090756958871 pageUrl=http://cuptv.com/live_frame.php?ch=ch5hd4
-#EXTINF:,ช่อง 7
+#EXTINF:-1,ช่อง 7
 rtmp://$OPT:rtmp-raw=rtmp://live.cuptv.com/live playpath=ch7hd4 swfUrl=http://cuptv.com/flowplayer.commercial-3.2.5.swf?0.9657279523282076 pageUrl=http://cuptv.com/live_frame.php?ch=ch7hd4
-#EXTINF:,ช่อง 9
+#EXTINF:-1,ช่อง 9
 rtmp://$OPT:rtmp-raw=rtmp://live.cuptv.com/live playpath=chmcot4 swfUrl=http://cuptv.com/flowplayer.commercial-3.2.5.swf?0.136283682987562 pageUrl=http://cuptv.com/live_frame.php?ch=chmcot4
-#EXTINF:,ช่อง ไทยรัฐ
+#EXTINF:-1,ช่อง ไทยรัฐ
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-#EXTINF:,ช่อง One
+#EXTINF:-1,ช่อง One
 rtmp://$OPT:rtmp-raw=rtmp://202.142.220.224:1935/gmmone playpath=gmmone swfUrl=http://www.onehd.net//jwplayer/player.swf pageUrl=http://www.onehd.net/live
-#EXTINF:,ช่อง Workpoint
+#EXTINF:-1,ช่อง Workpoint
 rtmp://$OPT:rtmp-raw=rtmp://live.cuptv.com/live playpath=chworkpoint4 swfUrl=http://cuptv.com/flowplayer.commercial-3.2.5.swf?0.09280166703628412 pageUrl=http://cuptv.com/live_frame.php?ch=chworkpoint4
-#EXTINF:,ช่อง Mono29
+#EXTINF:-1,ช่อง Mono29
 rtmp://$OPT:rtmp-raw=rtmp://solution01.stream.3bb.co.th:1935/MonoTV1080 playpath=1080p_th swfUrl=http://mono29.mthai.com/feed/stream/flow_flash/flowplayer.commercial-3.2.18.swf pageUrl=http://mono29.mthai.com/livetv
-#EXTINF:,ช่อง PPTV 1
-http://202.170.127.184/ch1/th1pba.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:,ช่อง PPTV 2
-http://202.170.127.178/ch2/en1yua.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 $ExtFilter="ฟุตบอล" group-title="Premier League",20.05 น. ซันเดอร์แลนด์ - อาร์เซน่อล
 
+#EXTINF:-1 $ExtFilter="ฟุตบอล" group-title="Premier League",22.15 น. เลสเตอร์ ซิตี้ - สวอนซี ซิตี้
 
+#EXTINF:-1 $ExtFilter="ฟุตบอล" group-title="Bundesliga",20.30 น. โบรุสเซีย มึนเช่นกลัดบัค - ฮอฟเฟ่นไฮม์
 
+#EXTINF:-1 $ExtFilter="ฟุตบอล" group-title="Bundesliga",22.30 น. ไอน์ทรัคท์ แฟรงเฟิร์ต - ไมนซ์
 
+#EXTINF:-1 $ExtFilter="ฟุตบอล" group-title="Liga BBVA",17.00 น. เลบานเต้ - แอธเลติก บิลเบา
 
+#EXTINF:-1 $ExtFilter="ฟุตบอล" group-title="Liga BBVA",21.00 น. เซบีญ่า - เรอัล เบติส
+
+#EXTINF:-1 $ExtFilter="ฟุตบอล" group-title="Liga BBVA",23.15 น. เกตาเฟ่ - บาเลนเซีย
+
+#EXTINF:-1 $ExtFilter="ฟุตบอล" group-title="Liga BBVA",01.30 น. บีญาร์เรอัล - เรอัล โซเซียดาด
+
+#EXTINF:-1 $ExtFilter="ฟุตบอล" group-title="Calcio Serie A",17.30 น. ฟรอซิโนเน่ - ปาแลร์โม่
+https://youtu.be/uMX3QOaOX3I
+#EXTINF:-1 $ExtFilter="ฟุตบอล" group-title="Calcio Serie A",20.00 น. ซามพ์โดเรีย - ลาซิโอ
+
+#EXTINF:-1 $ExtFilter="ฟุตบอล" group-title="Calcio Serie A",01.45 น. ฟิออเรนติน่า - ยูเวนตุส
 
