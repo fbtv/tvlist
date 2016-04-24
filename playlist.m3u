@@ -8,7 +8,7 @@ rtmp://$OPT:rtmp-raw=rtmp://live.cuptv.com/live playpath=ch7hd4 swfUrl=http://cu
 #EXTINF:,ช่อง 9
 rtmp://$OPT:rtmp-raw=rtmp://live.cuptv.com/live playpath=chmcot4 swfUrl=http://cuptv.com/flowplayer.commercial-3.2.5.swf?0.136283682987562 pageUrl=http://cuptv.com/live_frame.php?ch=chmcot4
 #EXTINF:,ช่อง ไทยรัฐ
-rtmp://$OPT:rtmp-raw=rtmp://live.cuptv.com/live playpath=chthairathTV4 swfUrl=http://cuptv.com/flowplayer.commercial-3.2.5.swf?0.2946459811906801 pageUrl=http://cuptv.com/live_frame.php?ch=chthairathTV4
+http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 #EXTINF:,ช่อง One
 rtmp://$OPT:rtmp-raw=rtmp://202.142.220.224:1935/gmmone playpath=gmmone swfUrl=http://www.onehd.net//jwplayer/player.swf pageUrl=http://www.onehd.net/live
 #EXTINF:,ช่อง Workpoint
