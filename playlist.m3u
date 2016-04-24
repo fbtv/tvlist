@@ -1,6 +1,22 @@
 #EXTM3U
-#EXTINF:,CTH Stadium 1
-rtmp://$OPT:rtmp-raw=rtmp://stream1.7mscorethai.com:19355/premier_league1/ playpath=stream?st=4ZKttPULhMq-fUfgJZ5ywg&e=1455662102 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://live.7mscorethai.com:1935/fpCzN0tEEsLuQvao7A1Keg/1/premier_league1.stream
+#EXTINF:,ช่อง 3
+rtmp://$OPT:rtmp-raw=rtmp://live.cuptv.com/live playpath=ch3hd4 swfUrl=http://cuptv.com/flowplayer.commercial-3.2.5.swf?0.48622388011759177 pageUrl=http://cuptv.com/live_frame.php?ch=ch3hd4
+#EXTINF:,ช่อง 5
+rtmp://$OPT:rtmp-raw=rtmp://live.cuptv.com/live playpath=ch5hd4 swfUrl=http://cuptv.com/flowplayer.commercial-3.2.5.swf?0.10197090756958871 pageUrl=http://cuptv.com/live_frame.php?ch=ch5hd4
+#EXTINF:,ช่อง 7
+rtmp://$OPT:rtmp-raw=rtmp://live.cuptv.com/live playpath=ch7hd4 swfUrl=http://cuptv.com/flowplayer.commercial-3.2.5.swf?0.9657279523282076 pageUrl=http://cuptv.com/live_frame.php?ch=ch7hd4
+#EXTINF:,ช่อง 9
+rtmp://$OPT:rtmp-raw=rtmp://live.cuptv.com/live playpath=chmcot4 swfUrl=http://cuptv.com/flowplayer.commercial-3.2.5.swf?0.136283682987562 pageUrl=http://cuptv.com/live_frame.php?ch=chmcot4
+#EXTINF:,ช่อง ไทยรัฐ
+rtmp://$OPT:rtmp-raw=rtmp://live.cuptv.com/live playpath=chthairathTV4 swfUrl=http://cuptv.com/flowplayer.commercial-3.2.5.swf?0.2946459811906801 pageUrl=http://cuptv.com/live_frame.php?ch=chthairathTV4
+#EXTINF:,ช่อง One
+rtmp://$OPT:rtmp-raw=rtmp://202.142.220.224:1935/gmmone playpath=gmmone swfUrl=http://www.onehd.net//jwplayer/player.swf pageUrl=http://www.onehd.net/live
+#EXTINF:,ช่อง Workpoint
+rtmp://$OPT:rtmp-raw=rtmp://live.cuptv.com/live playpath=chworkpoint4 swfUrl=http://cuptv.com/flowplayer.commercial-3.2.5.swf?0.09280166703628412 pageUrl=http://cuptv.com/live_frame.php?ch=chworkpoint4
+#EXTINF:,ช่อง Mono29
+rtmp://$OPT:rtmp-raw=rtmp://solution01.stream.3bb.co.th:1935/MonoTV1080 playpath=1080p_th swfUrl=http://mono29.mthai.com/feed/stream/flow_flash/flowplayer.commercial-3.2.18.swf pageUrl=http://mono29.mthai.com/livetv
+
+
 
 
 
