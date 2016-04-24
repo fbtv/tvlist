@@ -15,6 +15,11 @@ rtmp://$OPT:rtmp-raw=rtmp://202.142.220.224:1935/gmmone playpath=gmmone swfUrl=h
 rtmp://$OPT:rtmp-raw=rtmp://live.cuptv.com/live playpath=chworkpoint4 swfUrl=http://cuptv.com/flowplayer.commercial-3.2.5.swf?0.09280166703628412 pageUrl=http://cuptv.com/live_frame.php?ch=chworkpoint4
 #EXTINF:,ช่อง Mono29
 rtmp://$OPT:rtmp-raw=rtmp://solution01.stream.3bb.co.th:1935/MonoTV1080 playpath=1080p_th swfUrl=http://mono29.mthai.com/feed/stream/flow_flash/flowplayer.commercial-3.2.18.swf pageUrl=http://mono29.mthai.com/livetv
+#EXTINF:,ช่อง PPTV 1
+http://202.170.127.184/ch1/th1pba.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:,ช่อง PPTV 2
+http://202.170.127.178/ch2/en1yua.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
+
 
 
 
