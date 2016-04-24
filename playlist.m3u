@@ -16,24 +16,24 @@ rtmp://$OPT:rtmp-raw=rtmp://live.cuptv.com/live playpath=chworkpoint4 swfUrl=htt
 #EXTINF:-1,ช่อง Mono29
 rtmp://$OPT:rtmp-raw=rtmp://solution01.stream.3bb.co.th:1935/MonoTV1080 playpath=1080p_th swfUrl=http://mono29.mthai.com/feed/stream/flow_flash/flowplayer.commercial-3.2.18.swf pageUrl=http://mono29.mthai.com/livetv
 #EXTINF:-1 $ExtFilter="ฟุตบอล" group-title="Premier League",20.05 น. ซันเดอร์แลนด์ - อาร์เซน่อล
-
+rtmp://$OPT:rtmp-raw=
 #EXTINF:-1 $ExtFilter="ฟุตบอล" group-title="Premier League",22.15 น. เลสเตอร์ ซิตี้ - สวอนซี ซิตี้
-
+rtmp://$OPT:rtmp-raw=
 #EXTINF:-1 $ExtFilter="ฟุตบอล" group-title="Bundesliga",20.30 น. โบรุสเซีย มึนเช่นกลัดบัค - ฮอฟเฟ่นไฮม์
-
+rtmp://$OPT:rtmp-raw=
 #EXTINF:-1 $ExtFilter="ฟุตบอล" group-title="Bundesliga",22.30 น. ไอน์ทรัคท์ แฟรงเฟิร์ต - ไมนซ์
-
+rtmp://$OPT:rtmp-raw=
 #EXTINF:-1 $ExtFilter="ฟุตบอล" group-title="Liga BBVA",17.00 น. เลบานเต้ - แอธเลติก บิลเบา
-
+rtmp://$OPT:rtmp-raw=
 #EXTINF:-1 $ExtFilter="ฟุตบอล" group-title="Liga BBVA",21.00 น. เซบีญ่า - เรอัล เบติส
-
+rtmp://$OPT:rtmp-raw=
 #EXTINF:-1 $ExtFilter="ฟุตบอล" group-title="Liga BBVA",23.15 น. เกตาเฟ่ - บาเลนเซีย
-
+rtmp://$OPT:rtmp-raw=
 #EXTINF:-1 $ExtFilter="ฟุตบอล" group-title="Liga BBVA",01.30 น. บีญาร์เรอัล - เรอัล โซเซียดาด
-
+rtmp://$OPT:rtmp-raw=
 #EXTINF:-1 $ExtFilter="ฟุตบอล" group-title="Calcio Serie A",17.30 น. ฟรอซิโนเน่ - ปาแลร์โม่
 https://youtu.be/uMX3QOaOX3I
 #EXTINF:-1 $ExtFilter="ฟุตบอล" group-title="Calcio Serie A",20.00 น. ซามพ์โดเรีย - ลาซิโอ
-
+rtmp://$OPT:rtmp-raw=
 #EXTINF:-1 $ExtFilter="ฟุตบอล" group-title="Calcio Serie A",01.45 น. ฟิออเรนติน่า - ยูเวนตุส
-
+rtmp://$OPT:rtmp-raw=
